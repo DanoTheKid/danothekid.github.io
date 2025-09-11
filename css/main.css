@@ -1119,7 +1119,7 @@ header .logo a {
 	color: transparent;
 	width: 100px;
 	height: 15px;
-	background: url("../images/logo1.png") no-repeat center;
+	background: url("github.com/DanoTheKid/danothekid.github.io/images/logo1.png") no-repeat center;
 	background-size: 100px 15px;
 }
 
@@ -2483,3 +2483,4 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
