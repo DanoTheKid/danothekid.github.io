@@ -1,3 +1,4 @@
 {
-  "apiBaseUrl": "https://motion-gathered-cove-amsterdam.trycloudflare.com"
+  "apiBaseUrl": "https://civica-api-danothekid.vercel.app",
+  "dataBaseUrl": "./data/"
 }
