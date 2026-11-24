@@ -1,0 +1,17 @@
+{
+  "zones": 884,
+  "scenario_zones": 102,
+  "published_indicators": 94,
+  "editable_indicators": 22,
+  "contents": "Previously published indicators, zone boundaries and aggregate scores",
+  "files": {
+    "catalog.json": {
+      "sha256": "b7cfd818462436f58042becc27ebb0a60cf3d1b9357db933edb15b0c2300d667",
+      "bytes": 16969
+    },
+    "zones.geojson": {
+      "sha256": "1420695071dd174de75cd1c0cb4fc00f868822966fbfb052f178eca77e5dbddc",
+      "bytes": 5449529
+    }
+  }
+}

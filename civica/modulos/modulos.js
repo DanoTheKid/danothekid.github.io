@@ -12,7 +12,7 @@
   const scoreOrder = ["total", "movilidad", "ambiente", "vivienda", "seguridad", "infraestructura"];
   let mode = new URLSearchParams(location.search).get("module");
   if (!Object.hasOwn(modes, mode)) mode = "bogota";
-  let api, catalog, collection, map, polygons, selectedZone, range;
+  let api, dataBase, catalog, collection, map, polygons, selectedZone, range;
   let scenarioResult = new Map();
   let scenarioName = "";
   let busy = false;
@@ -196,7 +196,9 @@
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 100000);
     try {
-      const response = await fetch(api + path, {method: body === undefined ? "GET" : "POST", headers: body === undefined ? {Accept: "application/json"} : {"Content-Type": "application/json", Accept: "application/json"}, body: body === undefined ? undefined : JSON.stringify(body), credentials: "omit", signal: controller.signal});
+      const staticFile = {"/api/v1/catalog": "catalog.json", "/api/v1/zones.geojson": "zones.geojson"}[path];
+      const address = body === undefined && staticFile ? new URL(staticFile, dataBase).href : api + path;
+      const response = await fetch(address, {method: body === undefined ? "GET" : "POST", headers: body === undefined ? {Accept: "application/json"} : {"Content-Type": "application/json", Accept: "application/json"}, body: body === undefined ? undefined : JSON.stringify(body), credentials: "omit", signal: controller.signal});
       let data;
       try {data = await response.json();} catch {throw new Error("El servidor está iniciando. Reintenta en un minuto.");}
       if (!response.ok) {
@@ -240,7 +242,7 @@
     if (loading) return;
     loading = true;
     elements.retry.hidden = true;
-    status("Conectando con los datos públicos. El primer acceso puede tardar cerca de un minuto.");
+    status("Cargando los mapas y los datos públicos del proyecto.");
     try {
       const configResponse = await fetch("config.json", {cache: "no-cache"});
       if (!configResponse.ok) throw new Error("No se pudo leer la configuración del visor.");
@@ -249,6 +251,8 @@
       const localPreview = ["localhost", "127.0.0.1"].includes(location.hostname) && ["localhost", "127.0.0.1"].includes(address.hostname);
       if (address.protocol !== "https:" && !localPreview) throw new Error("La conexión del visor debe usar HTTPS.");
       api = address.origin;
+      dataBase = new URL(config.dataBaseUrl || "./data/", location.href);
+      if (dataBase.origin !== location.origin || !dataBase.pathname.endsWith("/")) throw new Error("Los datos del mapa deben cargarse desde este sitio.");
       [catalog, collection] = await Promise.all([request("/api/v1/catalog"), request("/api/v1/zones.geojson")]);
       if (collection.features?.length !== 884 || !catalog.indicators?.length) throw new Error("El conjunto de datos está incompleto. Reintenta la conexión.");
       const scores = element("optgroup");
