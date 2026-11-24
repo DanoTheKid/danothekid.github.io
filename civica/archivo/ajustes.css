@@ -1,1 +1,2 @@
 .civica-tool-placeholder{padding:28px;margin:16px auto;border:1px solid #b9cbb5;background:#edf4ea;text-align:center;font:18px/1.6 system-ui,sans-serif;color:#1b3d27}.civica-tool-placeholder a{color:#245d39;text-decoration:underline}.civica-archive-note{font-size:14px}html{scroll-behavior:smooth}
+.civica-module-frame{display:block;width:100%;height:1050px;border:1px solid #dce1e9;border-radius:8px;margin:18px auto;background:#f3f5f8}@media(max-width:800px){.civica-module-frame{height:1550px}}

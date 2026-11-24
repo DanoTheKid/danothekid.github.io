@@ -13,7 +13,7 @@
       "source_bytes": 98551,
       "title": "Inicio",
       "kind": "page",
-      "preserved_sha256": "6cbe022b4fb65f25cfbfea492800b3025c5b5fae2e0b2307077f6f14f3247551"
+      "preserved_sha256": "f02b40652f5c94ae5f3a0fa2e2398294d26b02def9b768d80ba8ffa75ce58ec5"
     },
     {
       "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=1",
@@ -33,7 +33,7 @@
       "source_bytes": 106586,
       "title": "Índice de habitabilidad",
       "kind": "page",
-      "preserved_sha256": "4aef6cb7c23a719e1dc63323cd33b83f4d5614421c169e4ff94e7f204d6c247f"
+      "preserved_sha256": "c9b7096ce426c6f10581a9c27acdecb4744015222df2ce7d2df02b67a6652da8"
     },
     {
       "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=11",
@@ -43,7 +43,7 @@
       "source_bytes": 109750,
       "title": "Corredor Carrera Séptima",
       "kind": "page",
-      "preserved_sha256": "42c1d61b5305bf771044f836d6e26cbd732387092f626c6344ca710584875e97"
+      "preserved_sha256": "8f6d2468adf1f6e53d9584228389c79cb7c309f1c509eacac1a8af6aee504f22"
     },
     {
       "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=2",
@@ -53,7 +53,7 @@
       "source_bytes": 98600,
       "title": "Inicio del proyecto",
       "kind": "page",
-      "preserved_sha256": "3a96dd2178769812676f8e3a0da1a7eba792c340f4e5c47408d1e75c4237ed89"
+      "preserved_sha256": "f7e554a36dd274bec228c34e53f7a37d4c5f50d022e6e723dad66dc0f5370f60"
     },
     {
       "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=23",
@@ -2584,5 +2584,9 @@
     "base_path": "/civica/",
     "repository": "DanoTheKid/danothekid.github.io"
   },
-  "adapted_at_utc": "2026-11-24T03:48:26.646574+00:00"
+  "adapted_at_utc": "2026-11-24T03:48:26.646574+00:00",
+  "public_modules": {
+    "path": "/civica/modulos/",
+    "description": "Interfaz añadida para consultar datos públicos y resultados agregados. El código del servidor y el modelo se conservan en un repositorio privado."
+  }
 }

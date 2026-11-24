@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Mapas y simulador | CIVICA</title>
+  <link rel="stylesheet" href="vendor/leaflet.css">
+  <link rel="stylesheet" href="modulos.css">
+  <script src="vendor/leaflet.js" defer></script>
+  <script src="modulos.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#controls">Ir a los controles del mapa</a>
+  <header>
+    <a class="brand" href="/civica/" target="_top">CIVICA</a>
+    <span>Ciudad Viva, Inteligente y Conectada</span>
+    <a class="institutional" href="/civica/" target="_top">Sitio institucional</a>
+  </header>
+  <main>
+    <div class="intro">
+      <div><p class="eyebrow">Explora la ciudad</p><h1 id="module-title">Habitabilidad de Bogotá</h1></div>
+      <p id="module-description">Consulta los índices y los indicadores publicados por el proyecto.</p>
+    </div>
+    <nav aria-label="Módulos de CIVICA">
+      <a href="?module=bogota" data-module="bogota">Bogotá</a>
+      <a href="?module=septima" data-module="septima">Carrera Séptima</a>
+      <a href="?module=simulador" data-module="simulador">Simulador</a>
+    </nav>
+    <div class="status" id="status" role="status" aria-live="polite">Conectando con los datos públicos. El primer acceso puede tardar cerca de un minuto.</div>
+    <button type="button" id="retry" hidden>Reintentar conexión</button>
+    <div class="workspace" id="workspace" hidden>
+      <section class="controls" id="controls" aria-label="Controles y consulta">
+        <label for="layer">Capa del mapa</label>
+        <select id="layer"></select>
+        <label for="zone">Zona de Análisis de Transporte</label>
+        <select id="zone"></select>
+        <p class="help">Selecciona una zona en la lista o directamente en el mapa.</p>
+        <article class="zone-card">
+          <p class="eyebrow" id="zone-name"></p>
+          <h2 id="value-label">Habitabilidad</h2>
+          <p class="large-value" id="zone-value"></p>
+          <p id="zone-location"></p>
+          <p class="help" id="result-context">Referencia original del proyecto</p>
+        </article>
+        <section id="scenario-panel" hidden>
+          <h2>Escenario Carrera Séptima</h2>
+          <p>Compara la referencia con el escenario original del proyecto para las 102 zonas del corredor.</p>
+          <button type="button" id="run-scenario">Calcular escenario original</button>
+        </section>
+        <section id="simulation-panel" hidden>
+          <h2>Explora un cambio</h2>
+          <p>Modifica uno o varios de los 22 indicadores públicos que admite el modelo. Los demás conservan su valor original.</p>
+          <form id="simulation-form">
+            <div id="inputs"></div>
+            <button type="submit" id="run-simulation">Calcular cambios en esta zona</button>
+          </form>
+        </section>
+        <button class="secondary" type="button" id="reset" hidden>Volver a la referencia</button>
+      </section>
+      <section class="map-panel" aria-label="Mapa de habitabilidad">
+        <div class="map-heading"><h2 id="map-title">Habitabilidad</h2><span id="coverage"></span></div>
+        <div id="map" aria-label="Mapa interactivo de las zonas de Bogotá"></div>
+        <div id="legend" aria-label="Leyenda del mapa"></div>
+        <p class="help map-note">Los colores usan cinco intervalos iguales del rango de referencia de cada capa. Esa escala se conserva al comparar escenarios.</p>
+        <section class="results" aria-labelledby="results-title">
+          <h2 id="results-title">Índices de la zona seleccionada</h2>
+          <p id="comparison-description">Valores de referencia del proyecto.</p>
+          <div class="table-scroll"><table><thead><tr><th scope="col">Índice</th><th scope="col">Referencia</th><th scope="col">Escenario</th><th scope="col">Diferencia</th></tr></thead><tbody id="score-rows"></tbody></table></div>
+        </section>
+      </section>
+    </div>
+    <footer>
+      <p>Consulta pública de los indicadores y resultados agregados de CIVICA. Los cálculos usan el modelo original del proyecto y son exploratorios.</p>
+      <p>Acceso temporal: los mapas y cálculos requieren que el equipo del proyecto permanezca encendido y conectado. El contenido institucional y las descargas siguen disponibles.</p>
+      <p><a href="/civica/paginas/10-030bb73d.html" target="_top">Consultar metodología y documentación</a> <span class="separator">|</span> <a href="/civica/archivo/index.html" target="_top">Datos y descargas conservados</a></p>
+    </footer>
+  </main>
+</body>
+</html>
