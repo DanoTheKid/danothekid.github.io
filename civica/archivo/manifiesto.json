@@ -1,0 +1,2588 @@
+{
+  "source": "https://ingenieria.bogota.unal.edu.co/civica/",
+  "captured_at_utc": "2026-11-24T03:09:14.079447+00:00",
+  "pages": 8,
+  "assets": 266,
+  "total_source_bytes": 197413802,
+  "files": [
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/",
+      "local_path": "index.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_sha256": "0904ff85724a0c5b4c388ce2362e6e9b02cd10cdd9fce651d163faca5955ca40",
+      "source_bytes": 98551,
+      "title": "Inicio",
+      "kind": "page",
+      "preserved_sha256": "6cbe022b4fb65f25cfbfea492800b3025c5b5fae2e0b2307077f6f14f3247551"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=1",
+      "local_path": "paginas/1-9ed85b4e.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_sha256": "f7f4f79c7384b2726a6d1eaf5098147ca66ccf7eca93ccad886f25696716df05",
+      "source_bytes": 167089,
+      "title": "Nuestro equipo",
+      "kind": "page",
+      "preserved_sha256": "3d0e5b0459d1270f0d7705aea3f8b88f047c89f83d41f75b90a9c8aea318b55b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=10",
+      "local_path": "paginas/10-030bb73d.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_sha256": "33e2b01b86a771fca7950bad8aa6079b75495f4b507a266725a5463ab8a89825",
+      "source_bytes": 106586,
+      "title": "Índice de habitabilidad",
+      "kind": "page",
+      "preserved_sha256": "4aef6cb7c23a719e1dc63323cd33b83f4d5614421c169e4ff94e7f204d6c247f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=11",
+      "local_path": "paginas/11-aaaf8a4d.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_sha256": "527af50a09aabfae40593e5602d0841569827beda8b0bfc7ebd3735fbedb2475",
+      "source_bytes": 109750,
+      "title": "Corredor Carrera Séptima",
+      "kind": "page",
+      "preserved_sha256": "42c1d61b5305bf771044f836d6e26cbd732387092f626c6344ca710584875e97"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=2",
+      "local_path": "paginas/2-293ead1c.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_sha256": "fbdc2460a9c984144dca66176cef546d9ba0fffb3875fad3aa9d887b300237b6",
+      "source_bytes": 98600,
+      "title": "Inicio del proyecto",
+      "kind": "page",
+      "preserved_sha256": "3a96dd2178769812676f8e3a0da1a7eba792c340f4e5c47408d1e75c4237ed89"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=23",
+      "local_path": "paginas/23-94e9568f.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_sha256": "087de8844286c98387d715f6c590822096571cd967d67e53177f1e090198bd57",
+      "source_bytes": 159982,
+      "title": "Curso CIVICA",
+      "kind": "page",
+      "preserved_sha256": "8835b39b1af463feca277ef587432c9edcca122210411500ee2e866175bf077d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=5",
+      "local_path": "paginas/5-bbf98839.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_sha256": "64fc96c15662ff1f6dad88627fb1509ce370a80c1ce9b3df975924db92f7c214",
+      "source_bytes": 110885,
+      "title": "Reels y podcast 24/7",
+      "kind": "page",
+      "preserved_sha256": "fa2bc95243e2d566db7da050f6c0f9cc7e4d08732850bd8bc59eb390f69fff5c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/index.php?option=com_sppagebuilder&view=page&id=6",
+      "local_path": "paginas/6-a8f27d78.html",
+      "content_type": "text/html; charset=utf-8",
+      "source_sha256": "fa204836cc1aed330abc7dd702e3bb746f5a3148a5c0f65cc6553c2b421f6ac0",
+      "source_bytes": 56506,
+      "title": "Publicaciones y noticias",
+      "kind": "page",
+      "preserved_sha256": "584fea1bd4f81d5420e68f04371a7d0cbc821d0cc4d4b4402b9a1efb26f23dad"
+    },
+    {
+      "source_url": "https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "local_path": "assets/b2d21c0162c6e7e6-css.css",
+      "content_type": "text/css; charset=utf-8",
+      "source_sha256": "68775e5a373ae5f2afd911b63427ece8d9fdce18bf200f20466d2d60c79a4768",
+      "source_bytes": 3751,
+      "kind": "asset",
+      "preserved_sha256": "4743c063f7ab6dd8d455ce3c93e5e0051782eceaa382d2c6282fa4cc7e81ef73"
+    },
+    {
+      "source_url": "https://fonts.googleapis.com/css?family=Raleway:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "local_path": "assets/27d8dc68f99675a6-css.css",
+      "content_type": "text/css; charset=utf-8",
+      "source_sha256": "67c71b6f35d3ef854dcf45e3335fd59393143c477e50e32a6dac8b1daaf5267a",
+      "source_bytes": 4005,
+      "kind": "asset",
+      "preserved_sha256": "08d30536f4e35b79d9d7e733d2795b7c68304fbb072c1f9a30291804950dd77a"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/css/animate.min.css",
+      "local_path": "assets/62b7293c88b64c0c-animate.min.css",
+      "content_type": "text/css",
+      "source_sha256": "a50f04537386196945dfab2e93729fbec5238b70a581fa07d826c0d7b0ffebe2",
+      "source_bytes": 70920,
+      "kind": "asset",
+      "preserved_sha256": "2f87524656ef92b5c69e95483e9200655839d4d491c090ede53099390dc773f5"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "local_path": "assets/6557a2b1648ef041-magnific-popup.css",
+      "content_type": "text/css",
+      "source_sha256": "bedfcf708d4eb8aa69f75e34183121fee89c8167559fc125f9b4e640d16973e7",
+      "source_bytes": 5920,
+      "kind": "asset",
+      "preserved_sha256": "bedfcf708d4eb8aa69f75e34183121fee89c8167559fc125f9b4e640d16973e7"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/css/sppagebuilder.css",
+      "local_path": "assets/d294886076264771-sppagebuilder.css",
+      "content_type": "text/css",
+      "source_sha256": "81f0ddf4d74d1d9dd14612beebd860d5320265aaaff2ec5724337a21e59bfe45",
+      "source_bytes": 198184,
+      "kind": "asset",
+      "preserved_sha256": "81f0ddf4d74d1d9dd14612beebd860d5320265aaaff2ec5724337a21e59bfe45"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/addons/image.js",
+      "local_path": "assets/11af43b9eaec36cc-image.js",
+      "content_type": "text/javascript",
+      "source_sha256": "5bf349987b7f76d39bd013ac13f213ab54891d46d9692bf847142d5e885bda98",
+      "source_bytes": 2417,
+      "kind": "asset",
+      "preserved_sha256": "5bf349987b7f76d39bd013ac13f213ab54891d46d9692bf847142d5e885bda98"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/addons/text_block.js",
+      "local_path": "assets/88d1b2ebd6a5003e-text_block.js",
+      "content_type": "text/javascript",
+      "source_sha256": "65fce0bdaf54a43e9126c393c94a818f43dc14678f789c0d4f5839e107b22265",
+      "source_bytes": 690,
+      "kind": "asset",
+      "preserved_sha256": "65fce0bdaf54a43e9126c393c94a818f43dc14678f789c0d4f5839e107b22265"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/common.js",
+      "local_path": "assets/7ce44531483bab8c-common.js",
+      "content_type": "text/javascript",
+      "source_sha256": "f2d3f29f2933cbfcd97d2e63d9ac567613bb88fc168de3b8fa796d9dea27ec7d",
+      "source_bytes": 144,
+      "kind": "asset",
+      "preserved_sha256": "f2d3f29f2933cbfcd97d2e63d9ac567613bb88fc168de3b8fa796d9dea27ec7d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js",
+      "local_path": "assets/ed1d032972c08462-jquery.magnific-popup.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "1bba99ff6f8f4c1d1b361530f016748082f0ef792f49a7be716b4d769e036045",
+      "source_bytes": 20321,
+      "kind": "asset",
+      "preserved_sha256": "1bba99ff6f8f4c1d1b361530f016748082f0ef792f49a7be716b4d769e036045"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/jquery.parallax.js",
+      "local_path": "assets/0a3f450790ccd6c1-jquery.parallax.js",
+      "content_type": "text/javascript",
+      "source_sha256": "729937c36d78cfec1fd6e3d8529885be8254ccc286bc5b16e721896bd106bbc3",
+      "source_bytes": 898,
+      "kind": "asset",
+      "preserved_sha256": "729937c36d78cfec1fd6e3d8529885be8254ccc286bc5b16e721896bd106bbc3"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/lottie-addon.js",
+      "local_path": "assets/29fa1461f93b8eeb-lottie-addon.js",
+      "content_type": "text/javascript",
+      "source_sha256": "1a1e0c60b9bc2ec6485b37fdb19a3b976a5f0e38375e20b7698367bc682e97e1",
+      "source_bytes": 2552,
+      "kind": "asset",
+      "preserved_sha256": "1a1e0c60b9bc2ec6485b37fdb19a3b976a5f0e38375e20b7698367bc682e97e1"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/lottie.min.js",
+      "local_path": "assets/99fa3c3091a06410-lottie.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "747ea2d902c3ab65891b5d72dd02d5535339ee7d2640afdb63ef53c88dd798e6",
+      "source_bytes": 270496,
+      "kind": "asset",
+      "preserved_sha256": "747ea2d902c3ab65891b5d72dd02d5535339ee7d2640afdb63ef53c88dd798e6"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/sp_carousel.js",
+      "local_path": "assets/4e544ee2a83408f9-sp_carousel.js",
+      "content_type": "text/javascript",
+      "source_sha256": "b395629b5fce8d3ee0929b1a7b92c19c0369f2c939e051932681e55cbeda197f",
+      "source_bytes": 19963,
+      "kind": "asset",
+      "preserved_sha256": "b395629b5fce8d3ee0929b1a7b92c19c0369f2c939e051932681e55cbeda197f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/components/com_sppagebuilder/assets/js/sppagebuilder.js",
+      "local_path": "assets/443732167882f090-sppagebuilder.js",
+      "content_type": "text/javascript",
+      "source_sha256": "284a9a0e03f15f7212bf1ebc231dd5d2bbbc86e9b6b2499d783988577ee46655",
+      "source_bytes": 76619,
+      "kind": "asset",
+      "preserved_sha256": "284a9a0e03f15f7212bf1ebc231dd5d2bbbc86e9b6b2499d783988577ee46655"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/07/27/idea-imagen-dominio-ambiente-construido.jpg",
+      "local_path": "assets/70021bb35d2e1c97-idea-imagen-dominio-ambiente-construido.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "8f880e82767170dc226177eb17e2699ab97b575cf593b50782dd763c4db08e22",
+      "source_bytes": 6583099,
+      "kind": "asset",
+      "preserved_sha256": "8f880e82767170dc226177eb17e2699ab97b575cf593b50782dd763c4db08e22"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/07/27/idea-imagen-dominio-infraestructura-publica.jpg",
+      "local_path": "assets/c33154eca2869eb5-idea-imagen-dominio-infraestructura-publica.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "62574039e7f5fde6d69369b1ac90031447c2b736dd0f021a64d7f98865d83324",
+      "source_bytes": 625201,
+      "kind": "asset",
+      "preserved_sha256": "62574039e7f5fde6d69369b1ac90031447c2b736dd0f021a64d7f98865d83324"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/07/27/idea-imagen-dominio-movilidad.jpg",
+      "local_path": "assets/727e8ff8b926cde4-idea-imagen-dominio-movilidad.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "46030937f224d05f6e013940a5588967b98cbdbe3d0212c7b2232e20899bd185",
+      "source_bytes": 6658269,
+      "kind": "asset",
+      "preserved_sha256": "46030937f224d05f6e013940a5588967b98cbdbe3d0212c7b2232e20899bd185"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/07/27/idea-imagen-dominio-seguridad.jpg",
+      "local_path": "assets/070413c99febcd25-idea-imagen-dominio-seguridad.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "49650e3cc5eb6346287a537a98abaf4238f008fae7762cafc9ed0c04e13eb1cd",
+      "source_bytes": 2318972,
+      "kind": "asset",
+      "preserved_sha256": "49650e3cc5eb6346287a537a98abaf4238f008fae7762cafc9ed0c04e13eb1cd"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/07/27/idea-imagen-dominio-vivienda-y-empleo.jpg",
+      "local_path": "assets/c550983da71e8412-idea-imagen-dominio-vivienda-y-empleo.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "5b1876f0ce43241166f8f041ede81d40c31e3d6c961b935a07a9c34faef73f13",
+      "source_bytes": 6674109,
+      "kind": "asset",
+      "preserved_sha256": "5b1876f0ce43241166f8f041ede81d40c31e3d6c961b935a07a9c34faef73f13"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_0115.jpeg",
+      "local_path": "assets/e2dd81869420a906-img_0115.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "cb92340056866998084ddb3162526ad52fe84eaee494e87e5bb57218d7675fc3",
+      "source_bytes": 95636,
+      "kind": "asset",
+      "preserved_sha256": "cb92340056866998084ddb3162526ad52fe84eaee494e87e5bb57218d7675fc3"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6828.jpeg",
+      "local_path": "assets/a626083c1b04a6f8-img_6828.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "10ec19175263a16780779ebfd8b2b7b57eaba4704ae661c8576eb448b632efe0",
+      "source_bytes": 136047,
+      "kind": "asset",
+      "preserved_sha256": "10ec19175263a16780779ebfd8b2b7b57eaba4704ae661c8576eb448b632efe0"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6829.jpeg",
+      "local_path": "assets/7ece93847b9f0ee8-img_6829.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "3a18aed642ca1534930929624d09ecabd54f845222cc9775ad2953e920a4fcf1",
+      "source_bytes": 183427,
+      "kind": "asset",
+      "preserved_sha256": "3a18aed642ca1534930929624d09ecabd54f845222cc9775ad2953e920a4fcf1"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6830.jpeg",
+      "local_path": "assets/bbc4154fe5ed13ab-img_6830.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "0ff94a25e2560ed9b92237038c6f479736a4ebbe334dc60d4098310d2da8e5fd",
+      "source_bytes": 1191318,
+      "kind": "asset",
+      "preserved_sha256": "0ff94a25e2560ed9b92237038c6f479736a4ebbe334dc60d4098310d2da8e5fd"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6831.jpeg",
+      "local_path": "assets/2c0d0b394ed73e0f-img_6831.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "9775f23e59d7c3f8f9b6a0b9d23ba2c0c2e41c0eae9dbe515e5ff1bce3399cd2",
+      "source_bytes": 39819,
+      "kind": "asset",
+      "preserved_sha256": "9775f23e59d7c3f8f9b6a0b9d23ba2c0c2e41c0eae9dbe515e5ff1bce3399cd2"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6832.jpeg",
+      "local_path": "assets/deb9de7faacba46f-img_6832.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "cd09fa27664036c28e7043976b106316e36b05f6f5c1d2d7406e71303f5bd280",
+      "source_bytes": 781909,
+      "kind": "asset",
+      "preserved_sha256": "cd09fa27664036c28e7043976b106316e36b05f6f5c1d2d7406e71303f5bd280"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6833.jpeg",
+      "local_path": "assets/34d7ddb9b76e4de1-img_6833.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "09317fe165b565f040ec62ce2c3dadf52347da7e920c27fca6195471b5cb9a6b",
+      "source_bytes": 87551,
+      "kind": "asset",
+      "preserved_sha256": "09317fe165b565f040ec62ce2c3dadf52347da7e920c27fca6195471b5cb9a6b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6834.jpeg",
+      "local_path": "assets/99c970fca68cc6bd-img_6834.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "a5af9efce8819d4eabb9385956e789db48036ad36de96efec2e3e3c19e22545f",
+      "source_bytes": 289589,
+      "kind": "asset",
+      "preserved_sha256": "a5af9efce8819d4eabb9385956e789db48036ad36de96efec2e3e3c19e22545f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6835.jpeg",
+      "local_path": "assets/efbb9e0a4f58923c-img_6835.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "0b9c8298a208396e82e411c13405888044da5b8de36d5f1310103d5cda25d446",
+      "source_bytes": 218871,
+      "kind": "asset",
+      "preserved_sha256": "0b9c8298a208396e82e411c13405888044da5b8de36d5f1310103d5cda25d446"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6838.jpeg",
+      "local_path": "assets/25136b451c94b286-img_6838.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "88c44022a2cc2055e2782d9ae378d187b08e53a6a4e54298a7431e2f33804712",
+      "source_bytes": 167961,
+      "kind": "asset",
+      "preserved_sha256": "88c44022a2cc2055e2782d9ae378d187b08e53a6a4e54298a7431e2f33804712"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6839.jpeg",
+      "local_path": "assets/1203692b0b855443-img_6839.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "7a237f07beb1abbe7f0106ade534004394b06c8af7a4160162b4e1e989607bc9",
+      "source_bytes": 158604,
+      "kind": "asset",
+      "preserved_sha256": "7a237f07beb1abbe7f0106ade534004394b06c8af7a4160162b4e1e989607bc9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6841.jpeg",
+      "local_path": "assets/4f6d73bec2362712-img_6841.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "946e6101a600ef2514789c4c3c8c060fb51c9df0acf9c8118ce8bf98b9ddab52",
+      "source_bytes": 228832,
+      "kind": "asset",
+      "preserved_sha256": "946e6101a600ef2514789c4c3c8c060fb51c9df0acf9c8118ce8bf98b9ddab52"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6842.jpeg",
+      "local_path": "assets/5b04f0a9cd6cfe08-img_6842.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "a4cae356408a89458e7c7dfb2107f8e7d3bf2379a8438f5b40534dbc8b20a995",
+      "source_bytes": 1047943,
+      "kind": "asset",
+      "preserved_sha256": "a4cae356408a89458e7c7dfb2107f8e7d3bf2379a8438f5b40534dbc8b20a995"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6843.jpeg",
+      "local_path": "assets/36bd60cbef58ac4c-img_6843.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "17962567ab750bf7533a1603bb9da7af3f4e5a317b9b1b39fe7963a4bbcb5363",
+      "source_bytes": 148224,
+      "kind": "asset",
+      "preserved_sha256": "17962567ab750bf7533a1603bb9da7af3f4e5a317b9b1b39fe7963a4bbcb5363"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6844.jpeg",
+      "local_path": "assets/5bb7082cb6ac2423-img_6844.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "79d20cca6a7d827645de699494997626c80b6313700f504cc8319c4b6ae47601",
+      "source_bytes": 109356,
+      "kind": "asset",
+      "preserved_sha256": "79d20cca6a7d827645de699494997626c80b6313700f504cc8319c4b6ae47601"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/24/img_6845.jpeg",
+      "local_path": "assets/22a11b910d167f67-img_6845.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "9f2b945455223b0dfda3128fe6b1a1d1e2870ce411914a40af7bc9213eabd8d2",
+      "source_bytes": 1514167,
+      "kind": "asset",
+      "preserved_sha256": "9f2b945455223b0dfda3128fe6b1a1d1e2870ce411914a40af7bc9213eabd8d2"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/25/img_0125.jpeg",
+      "local_path": "assets/a67e794ed6abcadd-img_0125.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "1cc4b666382ebbb2b4f551bbaa731bf2c8b3bf9180094751cccb47bb11ab0437",
+      "source_bytes": 2168135,
+      "kind": "asset",
+      "preserved_sha256": "1cc4b666382ebbb2b4f551bbaa731bf2c8b3bf9180094751cccb47bb11ab0437"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/25/img_6827.jpeg",
+      "local_path": "assets/acffe3c41f4d06fe-img_6827.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "d6e8fac9cc8acdc5edd488c842956f6c1924edb64c06f763829030decf109098",
+      "source_bytes": 242024,
+      "kind": "asset",
+      "preserved_sha256": "d6e8fac9cc8acdc5edd488c842956f6c1924edb64c06f763829030decf109098"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/25/img_6848.jpeg",
+      "local_path": "assets/915e539f6aa7c4ba-img_6848.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "083007011385b171ca5c514af400dd1b7861fee94ff023991d42afd84bad9767",
+      "source_bytes": 922718,
+      "kind": "asset",
+      "preserved_sha256": "083007011385b171ca5c514af400dd1b7861fee94ff023991d42afd84bad9767"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/30/aerial-view-architecture-bogota-colombia1.jpg",
+      "local_path": "assets/39baace903e650c2-aerial-view-architecture-bogota-colombia1.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "a9b85c873c178b86d034a8bb8dd7df0c526c9c95b620c332e3a5c830fd525899",
+      "source_bytes": 1825006,
+      "kind": "asset",
+      "preserved_sha256": "a9b85c873c178b86d034a8bb8dd7df0c526c9c95b620c332e3a5c830fd525899"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/08/30/logo-civica-con-texto.png",
+      "local_path": "assets/626075f3400562f9-logo-civica-con-texto.png",
+      "content_type": "image/png",
+      "source_sha256": "84d86d2e8b1294819d00cfa1f1704ceb74e322272efe338130de2282f582d6cb",
+      "source_bytes": 113420,
+      "kind": "asset",
+      "preserved_sha256": "84d86d2e8b1294819d00cfa1f1704ceb74e322272efe338130de2282f582d6cb"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/09/06/artboard4.png",
+      "local_path": "assets/9756bac3bfabdfd1-artboard4.png",
+      "content_type": "image/png",
+      "source_sha256": "a999e65178157ae2f475d3bdfff1f8cf5ed6700c0686b94154a2c522c58f2fa0",
+      "source_bytes": 38751,
+      "kind": "asset",
+      "preserved_sha256": "a999e65178157ae2f475d3bdfff1f8cf5ed6700c0686b94154a2c522c58f2fa0"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/09/06/artboard7.png",
+      "local_path": "assets/39c7d8e749bcfc66-artboard7.png",
+      "content_type": "image/png",
+      "source_sha256": "14d595f976d54d61d26a7e91e6378e3f4ab8205a1354293e9ca5e0d2cfc1291c",
+      "source_bytes": 24063,
+      "kind": "asset",
+      "preserved_sha256": "14d595f976d54d61d26a7e91e6378e3f4ab8205a1354293e9ca5e0d2cfc1291c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/09/26/arlen-gomez-2.jpg",
+      "local_path": "assets/61b1014abee31684-arlen-gomez-2.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "a61c32772c5763e22a09e9bc91c92a478843f67cfef034995f05b1274643ff3a",
+      "source_bytes": 440153,
+      "kind": "asset",
+      "preserved_sha256": "a61c32772c5763e22a09e9bc91c92a478843f67cfef034995f05b1274643ff3a"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard1.png",
+      "local_path": "assets/28c95d6f6dc1ed52-artboard1.png",
+      "content_type": "image/png",
+      "source_sha256": "dc9ebdf731efd26f09cecee5845c06c629558642b9c974bfe6d8d430dba91eae",
+      "source_bytes": 53333,
+      "kind": "asset",
+      "preserved_sha256": "dc9ebdf731efd26f09cecee5845c06c629558642b9c974bfe6d8d430dba91eae"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard10.png",
+      "local_path": "assets/6828cbc0bbdb5f34-artboard10.png",
+      "content_type": "image/png",
+      "source_sha256": "62795a58b1434117f6d33ad26a268c9adfb0c5bf2a753d828dd5c6e0835ddc1a",
+      "source_bytes": 63686,
+      "kind": "asset",
+      "preserved_sha256": "62795a58b1434117f6d33ad26a268c9adfb0c5bf2a753d828dd5c6e0835ddc1a"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard11.png",
+      "local_path": "assets/a8900bd8f889b85f-artboard11.png",
+      "content_type": "image/png",
+      "source_sha256": "56624b63b691d0a65730000e219e2e6dcafebd8b583e8acec5463f2cf160124d",
+      "source_bytes": 25169,
+      "kind": "asset",
+      "preserved_sha256": "56624b63b691d0a65730000e219e2e6dcafebd8b583e8acec5463f2cf160124d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard2.png",
+      "local_path": "assets/4280521ee64e835e-artboard2.png",
+      "content_type": "image/png",
+      "source_sha256": "850299d89579325fb126ec6592879700a4fd31a98186f0e0fb6980e84fcb2c35",
+      "source_bytes": 37814,
+      "kind": "asset",
+      "preserved_sha256": "850299d89579325fb126ec6592879700a4fd31a98186f0e0fb6980e84fcb2c35"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard3.png",
+      "local_path": "assets/019e1bd21a33e574-artboard3.png",
+      "content_type": "image/png",
+      "source_sha256": "832386319370729dedefde202acb8aa4b287f054295658f6ef26d182726fff21",
+      "source_bytes": 31332,
+      "kind": "asset",
+      "preserved_sha256": "832386319370729dedefde202acb8aa4b287f054295658f6ef26d182726fff21"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard5.png",
+      "local_path": "assets/ea890380106752d4-artboard5.png",
+      "content_type": "image/png",
+      "source_sha256": "9174cf8216d7d1dadbf2a543ee47536534acddac969d7ae61be6efcf5662b427",
+      "source_bytes": 37265,
+      "kind": "asset",
+      "preserved_sha256": "9174cf8216d7d1dadbf2a543ee47536534acddac969d7ae61be6efcf5662b427"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard6.png",
+      "local_path": "assets/41852d337d5bbfc5-artboard6.png",
+      "content_type": "image/png",
+      "source_sha256": "e28f0eeaabcf959bcc216450716d5b9ade3a96f4ed7ea37ed6c8dfecd2e334df",
+      "source_bytes": 89599,
+      "kind": "asset",
+      "preserved_sha256": "e28f0eeaabcf959bcc216450716d5b9ade3a96f4ed7ea37ed6c8dfecd2e334df"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard8.png",
+      "local_path": "assets/9128aae668587ccd-artboard8.png",
+      "content_type": "image/png",
+      "source_sha256": "345e60207621ecc40538d2479016290f3a37f3a9682927c83c40b6721b393c31",
+      "source_bytes": 22463,
+      "kind": "asset",
+      "preserved_sha256": "345e60207621ecc40538d2479016290f3a37f3a9682927c83c40b6721b393c31"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/artboard9.png",
+      "local_path": "assets/b99cd71ad08f10f3-artboard9.png",
+      "content_type": "image/png",
+      "source_sha256": "39b90c0e27f31f3033f79b43498a63444e2f0af59809a613537e9fee89a6594c",
+      "source_bytes": 31947,
+      "kind": "asset",
+      "preserved_sha256": "39b90c0e27f31f3033f79b43498a63444e2f0af59809a613537e9fee89a6594c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2023/10/04/img_7175.jpg",
+      "local_path": "assets/35a6c67ba31810eb-img_7175.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "be7b1138dee1ab1b0ab932bd9743b54f95315e4be053c4b9b31e09c5433b22c1",
+      "source_bytes": 110603,
+      "kind": "asset",
+      "preserved_sha256": "be7b1138dee1ab1b0ab932bd9743b54f95315e4be053c4b9b31e09c5433b22c1"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/26/activate-step---opcion-1-5.jpg",
+      "local_path": "assets/c5591e400172c872-activate-step---opcion-1-5.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "ecb3b8a43ff0f57fd26b064ff89612988975773065c5563de12e15aaf1b1fdef",
+      "source_bytes": 1353215,
+      "kind": "asset",
+      "preserved_sha256": "ecb3b8a43ff0f57fd26b064ff89612988975773065c5563de12e15aaf1b1fdef"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/26/copia-de-nicolas-guerrero.jpg",
+      "local_path": "assets/a82070ab114efa88-copia-de-nicolas-guerrero.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "151bd2e3d9643b697190ee043c986e88f52aba0e2a61e3b7962ad15ee09859f3",
+      "source_bytes": 25617,
+      "kind": "asset",
+      "preserved_sha256": "151bd2e3d9643b697190ee043c986e88f52aba0e2a61e3b7962ad15ee09859f3"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/26/discuss-step---opcion-1.jpg",
+      "local_path": "assets/8733a7789dc68f38-discuss-step---opcion-1.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "a9f2d886b3cc4fa9658702b47d725d99bb7aedd0d6359029376253b33ecb4cd1",
+      "source_bytes": 3877806,
+      "kind": "asset",
+      "preserved_sha256": "a9f2d886b3cc4fa9658702b47d725d99bb7aedd0d6359029376253b33ecb4cd1"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/26/discuss-step---opcion-2.jpeg",
+      "local_path": "assets/2e407470f3b8955d-discuss-step---opcion-2.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "e8c881f268ac1bf378571955889f2fce236f5eba25a45df35eae6a734bd763fe",
+      "source_bytes": 4113221,
+      "kind": "asset",
+      "preserved_sha256": "e8c881f268ac1bf378571955889f2fce236f5eba25a45df35eae6a734bd763fe"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/26/discuss-step---opcion-3.png",
+      "local_path": "assets/4509ff1dbbde3b9e-discuss-step---opcion-3.png",
+      "content_type": "image/png",
+      "source_sha256": "b649d7b4ce6cec69c74fbda92ad1bbd75c81fe979f204d44a2eb5fbcd5309225",
+      "source_bytes": 5107951,
+      "kind": "asset",
+      "preserved_sha256": "b649d7b4ce6cec69c74fbda92ad1bbd75c81fe979f204d44a2eb5fbcd5309225"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/26/gmb---opcion-1.jpg",
+      "local_path": "assets/f5c3ba84cce2c86d-gmb---opcion-1.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "bc2345ccf9de8686de2074eaffbc156afdd7a72c8cb3e2813935a57cb1d884d9",
+      "source_bytes": 1609162,
+      "kind": "asset",
+      "preserved_sha256": "bc2345ccf9de8686de2074eaffbc156afdd7a72c8cb3e2813935a57cb1d884d9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/26/gmb---opcion-2.jpg",
+      "local_path": "assets/e0aec0f6beee3773-gmb---opcion-2.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "5dadd60c81b1cd158a555a9ee0238dccf6d166049c29c06c82c040bcb29479f0",
+      "source_bytes": 3075691,
+      "kind": "asset",
+      "preserved_sha256": "5dadd60c81b1cd158a555a9ee0238dccf6d166049c29c06c82c040bcb29479f0"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/26/gmb---opcion-3.jpg",
+      "local_path": "assets/6ba898aec6d6b109-gmb---opcion-3.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "d6375187fbf49b41b7c71538207b6d38893923efd4ab587f08e50d3f116753c9",
+      "source_bytes": 1819377,
+      "kind": "asset",
+      "preserved_sha256": "d6375187fbf49b41b7c71538207b6d38893923efd4ab587f08e50d3f116753c9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/31/whatsapp-image-2024-07-31-at-09.22.46-1.jpeg",
+      "local_path": "assets/a9f3ede07bab102a-whatsapp-image-2024-07-31-at-09.22.46-1.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "cb1cbfba9bee911fe40f1045326303d6a67724789faed3b7e792bf57b22bda89",
+      "source_bytes": 188646,
+      "kind": "asset",
+      "preserved_sha256": "cb1cbfba9bee911fe40f1045326303d6a67724789faed3b7e792bf57b22bda89"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/31/whatsapp-image-2024-07-31-at-09.22.46-3.jpeg",
+      "local_path": "assets/38e71c0db0a90c5e-whatsapp-image-2024-07-31-at-09.22.46-3.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "26f3adc6acccade4ea1566ddc258543a0740e6bf8272ac4b0bc52d187599b2ad",
+      "source_bytes": 196695,
+      "kind": "asset",
+      "preserved_sha256": "26f3adc6acccade4ea1566ddc258543a0740e6bf8272ac4b0bc52d187599b2ad"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/31/whatsapp-image-2024-07-31-at-09.22.46.jpeg",
+      "local_path": "assets/2ed0ddd1762781b1-whatsapp-image-2024-07-31-at-09.22.46.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "3cda7d149f229cd23d123e2185fe30145c56e895416c0c2ac3ad1f27e7cdd316",
+      "source_bytes": 233966,
+      "kind": "asset",
+      "preserved_sha256": "3cda7d149f229cd23d123e2185fe30145c56e895416c0c2ac3ad1f27e7cdd316"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/07/31/whatsapp-image-2024-07-31-at-09.22.47.jpeg",
+      "local_path": "assets/bbda046331de2338-whatsapp-image-2024-07-31-at-09.22.47.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "b93ac8fe0a64083689e8c1c3afba2d85501ecf7e498292a7c5eb0c7bbc3b2c17",
+      "source_bytes": 218074,
+      "kind": "asset",
+      "preserved_sha256": "b93ac8fe0a64083689e8c1c3afba2d85501ecf7e498292a7c5eb0c7bbc3b2c17"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2024/12/12/civica-curso-banner.webp",
+      "local_path": "assets/e73aa55afa5fbfa6-civica-curso-banner.webp",
+      "content_type": "image/webp",
+      "source_sha256": "3bebcfce9e8266c7d5dfe25e450d0ed93930ccdc996912cc8ad16694944c3c75",
+      "source_bytes": 82970,
+      "kind": "asset",
+      "preserved_sha256": "3bebcfce9e8266c7d5dfe25e450d0ed93930ccdc996912cc8ad16694944c3c75"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/26/collage.png",
+      "local_path": "assets/06c39e965ba8dc4f-collage.png",
+      "content_type": "image/png",
+      "source_sha256": "3a0635903cf21cdea3723cdfc0ddc61c9a653028d4be4a9ee71ea853d007a478",
+      "source_bytes": 1094684,
+      "kind": "asset",
+      "preserved_sha256": "3a0635903cf21cdea3723cdfc0ddc61c9a653028d4be4a9ee71ea853d007a478"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/26/imagen41.jpg",
+      "local_path": "assets/f8187518acd2f707-imagen41.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "d3e496c1729eb2a25f6366425d1f85a4f843dab7c493390e79bea4cd1ba7fba5",
+      "source_bytes": 63478,
+      "kind": "asset",
+      "preserved_sha256": "d3e496c1729eb2a25f6366425d1f85a4f843dab7c493390e79bea4cd1ba7fba5"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/26/ricardo-morales-202.jpg",
+      "local_path": "assets/a465d163d86685f5-ricardo-morales-202.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "f8e4949c4576383c2f721a4bb62e4fa28997d23e5443884210d44715c18be1b1",
+      "source_bytes": 539698,
+      "kind": "asset",
+      "preserved_sha256": "f8e4949c4576383c2f721a4bb62e4fa28997d23e5443884210d44715c18be1b1"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/26/screenshot-2025-03-27-024509.png",
+      "local_path": "assets/06f6b2a528364374-screenshot-2025-03-27-024509.png",
+      "content_type": "image/png",
+      "source_sha256": "b28be113449f98112952317d2c58508dcdc1301c1ef2051a2036ec69012174c4",
+      "source_bytes": 197522,
+      "kind": "asset",
+      "preserved_sha256": "b28be113449f98112952317d2c58508dcdc1301c1ef2051a2036ec69012174c4"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/26/screenshot-2025-03-27-030642.png",
+      "local_path": "assets/7dce4d884d3e5a62-screenshot-2025-03-27-030642.png",
+      "content_type": "image/png",
+      "source_sha256": "ed678abf10a68a673e55cc949c18da61d08b2a45e422d89a5994669ec14159db",
+      "source_bytes": 559030,
+      "kind": "asset",
+      "preserved_sha256": "ed678abf10a68a673e55cc949c18da61d08b2a45e422d89a5994669ec14159db"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/03.2025-diagrama-marco-conceptual.png",
+      "local_path": "assets/3e9ed1e16063e421-03.2025-diagrama-marco-conceptual.png",
+      "content_type": "image/png",
+      "source_sha256": "7d6da6628db79d6cf8ea3f2a4bbf150bcdfd624912cfae5b1500ec0b31f5a7b4",
+      "source_bytes": 148195,
+      "kind": "asset",
+      "preserved_sha256": "7d6da6628db79d6cf8ea3f2a4bbf150bcdfd624912cfae5b1500ec0b31f5a7b4"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/2aves.png",
+      "local_path": "assets/237c44418203a13b-2aves.png",
+      "content_type": "image/png",
+      "source_sha256": "61ad0b0cc13284949ddd2a232f8188616cda36858181006684006a0b2086803c",
+      "source_bytes": 122310,
+      "kind": "asset",
+      "preserved_sha256": "61ad0b0cc13284949ddd2a232f8188616cda36858181006684006a0b2086803c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/3.2025 Marco Conceptual CIVICA.pdf",
+      "local_path": "assets/1cefa5e9c9eb3138-3.2025-Marco-Conceptual-CIVICA.pdf",
+      "content_type": "application/pdf",
+      "source_sha256": "855bdc5d3dc2225c0d541dc60bd61943aa50c599f639351a3d110f9d05121246",
+      "source_bytes": 775684,
+      "kind": "asset",
+      "preserved_sha256": "855bdc5d3dc2225c0d541dc60bd61943aa50c599f639351a3d110f9d05121246"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/3aves1.png",
+      "local_path": "assets/dd8e9c01e5e56ea8-3aves1.png",
+      "content_type": "image/png",
+      "source_sha256": "1384bbd347d031ffd31d2af722c1c0293d62b4fa234372d414e7398f3c7a3652",
+      "source_bytes": 92186,
+      "kind": "asset",
+      "preserved_sha256": "1384bbd347d031ffd31d2af722c1c0293d62b4fa234372d414e7398f3c7a3652"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Ambiente1.csv",
+      "local_path": "assets/bc8e864e9550701f-Ambiente1.csv",
+      "content_type": "text/csv",
+      "source_sha256": "0816f69277e33071c1e738f150571b9c2206e470dbc42ec9a552cdaaba320cdd",
+      "source_bytes": 90257,
+      "kind": "asset",
+      "preserved_sha256": "0816f69277e33071c1e738f150571b9c2206e470dbc42ec9a552cdaaba320cdd"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Ambiente2.csv",
+      "local_path": "assets/72614389279297f7-Ambiente2.csv",
+      "content_type": "text/csv",
+      "source_sha256": "2412c470ea5631fa99762e76d07c21b1fc8c7cb7e48d34beefe7986decde8132",
+      "source_bytes": 603,
+      "kind": "asset",
+      "preserved_sha256": "2412c470ea5631fa99762e76d07c21b1fc8c7cb7e48d34beefe7986decde8132"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Codebook.pdf",
+      "local_path": "assets/791fa3594890dde4-Codebook.pdf",
+      "content_type": "application/pdf",
+      "source_sha256": "c4fa63a69ab031a65c05e94bf34d253d6d94d4f262a954c1f30f8f439d632732",
+      "source_bytes": 1006924,
+      "kind": "asset",
+      "preserved_sha256": "c4fa63a69ab031a65c05e94bf34d253d6d94d4f262a954c1f30f8f439d632732"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Infraestructura1.csv",
+      "local_path": "assets/5344432068a8c9a2-Infraestructura1.csv",
+      "content_type": "text/csv",
+      "source_sha256": "3eb06d52c98ba2fce7bb5c324a8f7ba7ab915d73a4acb752e46aae6beb04af66",
+      "source_bytes": 132149,
+      "kind": "asset",
+      "preserved_sha256": "3eb06d52c98ba2fce7bb5c324a8f7ba7ab915d73a4acb752e46aae6beb04af66"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Infraestructura2.csv",
+      "local_path": "assets/2afeb25b29a51dff-Infraestructura2.csv",
+      "content_type": "text/csv",
+      "source_sha256": "216d3dcbbb563d92425ca92be14c3814756b33602b0b5d8504f18e73bb2c1a6e",
+      "source_bytes": 1747,
+      "kind": "asset",
+      "preserved_sha256": "216d3dcbbb563d92425ca92be14c3814756b33602b0b5d8504f18e73bb2c1a6e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Movilidad1.csv",
+      "local_path": "assets/4d3b2fb4fe5ba5e5-Movilidad1.csv",
+      "content_type": "text/csv",
+      "source_sha256": "6a25c007d21b919e7260d2e4e5fac4abad57f583d3c7ef641f8b3ab32e3cfc76",
+      "source_bytes": 420678,
+      "kind": "asset",
+      "preserved_sha256": "6a25c007d21b919e7260d2e4e5fac4abad57f583d3c7ef641f8b3ab32e3cfc76"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Movilidad2.csv",
+      "local_path": "assets/0d5539aaaccb3f59-Movilidad2.csv",
+      "content_type": "text/csv",
+      "source_sha256": "d4f3025bff9a42567d13210066a1cf5beb189a6aa0b937c5f8aa612ad73732c6",
+      "source_bytes": 3373,
+      "kind": "asset",
+      "preserved_sha256": "d4f3025bff9a42567d13210066a1cf5beb189a6aa0b937c5f8aa612ad73732c6"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Seguridad1.csv",
+      "local_path": "assets/db323d27f427c3aa-Seguridad1.csv",
+      "content_type": "text/csv",
+      "source_sha256": "44c430a5dc793d790eb820841fe15b339c88262d20019a908142f2273045763b",
+      "source_bytes": 100678,
+      "kind": "asset",
+      "preserved_sha256": "44c430a5dc793d790eb820841fe15b339c88262d20019a908142f2273045763b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/Seguridad2.csv",
+      "local_path": "assets/19780854fc8a90bc-Seguridad2.csv",
+      "content_type": "text/csv",
+      "source_sha256": "a738ab3ed2bd072852392192e1f86a827e6eba24a2a265c55c30bda43233fe17",
+      "source_bytes": 818,
+      "kind": "asset",
+      "preserved_sha256": "a738ab3ed2bd072852392192e1f86a827e6eba24a2a265c55c30bda43233fe17"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/ViviendaEmpleo1.csv",
+      "local_path": "assets/b383f29d958ce67a-ViviendaEmpleo1.csv",
+      "content_type": "text/csv",
+      "source_sha256": "9fbbaefa6951eba452da0d8e0190f4e8ee187244f98b92f576164dfdf6e18810",
+      "source_bytes": 202394,
+      "kind": "asset",
+      "preserved_sha256": "9fbbaefa6951eba452da0d8e0190f4e8ee187244f98b92f576164dfdf6e18810"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/ViviendaEmpleo2.csv",
+      "local_path": "assets/e7cc5b798dd06be5-ViviendaEmpleo2.csv",
+      "content_type": "text/csv",
+      "source_sha256": "a91eb272fe933c25653f0a754c72bada3242da081181e0c5065939aa070e73d9",
+      "source_bytes": 1599,
+      "kind": "asset",
+      "preserved_sha256": "a91eb272fe933c25653f0a754c72bada3242da081181e0c5065939aa070e73d9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/aves.png",
+      "local_path": "assets/0f7061e98b921ebc-aves.png",
+      "content_type": "image/png",
+      "source_sha256": "13898b55e1b35c66516fd46d538dfdacf11464884e1e1bb98d2ac1e036695766",
+      "source_bytes": 63507,
+      "kind": "asset",
+      "preserved_sha256": "13898b55e1b35c66516fd46d538dfdacf11464884e1e1bb98d2ac1e036695766"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/imagen1.png",
+      "local_path": "assets/e7b7a89954254a30-imagen1.png",
+      "content_type": "image/png",
+      "source_sha256": "6ba33215898968d8d836529ebec37adbde82dec959f1342586603abb148a0a8e",
+      "source_bytes": 358028,
+      "kind": "asset",
+      "preserved_sha256": "6ba33215898968d8d836529ebec37adbde82dec959f1342586603abb148a0a8e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/03/28/whatsapp-image-2025-03-27-at-2.29.05-pm.jpeg",
+      "local_path": "assets/4f14987a56c2279d-whatsapp-image-2025-03-27-at-2.29.05-pm.jpeg",
+      "content_type": "image/jpeg",
+      "source_sha256": "f6b0a59ced63893d45a8253dbadf291d5792a5ec10a6ef437c41c41deab4ca49",
+      "source_bytes": 268052,
+      "kind": "asset",
+      "preserved_sha256": "f6b0a59ced63893d45a8253dbadf291d5792a5ec10a6ef437c41c41deab4ca49"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/images/2025/05/06/fotomuur.jpg",
+      "local_path": "assets/c2927786190c3ae1-fotomuur.jpg",
+      "content_type": "image/jpeg",
+      "source_sha256": "d831955f8216526ea9936a784682a5b979ee6f5441f3dbf55819610329eb93cd",
+      "source_bytes": 1346984,
+      "kind": "asset",
+      "preserved_sha256": "d831955f8216526ea9936a784682a5b979ee6f5441f3dbf55819610329eb93cd"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Abel/stylesheet.css",
+      "local_path": "assets/3799cbe9c3e947f6-stylesheet.css",
+      "content_type": "text/css",
+      "source_sha256": "239ac78df5b20d5a2123474e91a86c79ea6dd867ad43ca08853ceabf369c7c29",
+      "source_bytes": 365,
+      "kind": "asset",
+      "preserved_sha256": "6c92f31d5ff3eed47b0e8e4964ac490955041506e22c3f5d0433e91c495a5397"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Nunito/stylesheet.css",
+      "local_path": "assets/f3a12a18b718a045-stylesheet.css",
+      "content_type": "text/css",
+      "source_sha256": "b334b7607f8ca674a4b3d6fa0d444f4e2b589834a918736177d4fd4e46b16c79",
+      "source_bytes": 3138,
+      "kind": "asset",
+      "preserved_sha256": "c0910f958a2dd4b554af104513140184ff0f72c6a9ab937689d831c1c9adfdca"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/stylesheet.css",
+      "local_path": "assets/ab196e690b27341b-stylesheet.css",
+      "content_type": "text/css",
+      "source_sha256": "ffdba34b13a33ec0822c670f9738047ba593c546913134d8bb500790c75d5c33",
+      "source_bytes": 10048,
+      "kind": "asset",
+      "preserved_sha256": "179f0c6a99db6b5692129f7d5c3af76f576d636b6d36b4cb4142129ca23b088b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/legacy/js/jquery-noconflict.min.js",
+      "local_path": "assets/c57937b648caa26e-jquery-noconflict.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "47084350921ff4f9e4908afef36723b84de4247eaf51c403950638b9126c8f4b",
+      "source_bytes": 26,
+      "kind": "asset",
+      "preserved_sha256": "47084350921ff4f9e4908afef36723b84de4247eaf51c403950638b9126c8f4b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/system/js/core.min.js",
+      "local_path": "assets/a9db2d9d79d47abd-core.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "8155c3ca7c6952e262fc67bb872a4e516aea71d681b7d9ae94f9da69cfe506ed",
+      "source_bytes": 7681,
+      "kind": "asset",
+      "preserved_sha256": "8155c3ca7c6952e262fc67bb872a4e516aea71d681b7d9ae94f9da69cfe506ed"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/system/js/messages-es5.min.js",
+      "local_path": "assets/c0d56246231ba7dc-messages-es5.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "8d32ba550465cf7ffc6d93ac11ddadef6061f2feb144e716dde6ddad5a34b601",
+      "source_bytes": 8138,
+      "kind": "asset",
+      "preserved_sha256": "8d32ba550465cf7ffc6d93ac11ddadef6061f2feb144e716dde6ddad5a34b601"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/system/js/messages.min.js",
+      "local_path": "assets/de9101f4b592d916-messages.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "d5d2e5ff36a371736c74fc21effdb456e0fd7ad1d7a93dd44a65e24c03e64b8b",
+      "source_bytes": 5419,
+      "kind": "asset",
+      "preserved_sha256": "d5d2e5ff36a371736c74fc21effdb456e0fd7ad1d7a93dd44a65e24c03e64b8b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/alert.min.js",
+      "local_path": "assets/0115e256e682a2f5-alert.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "4fda4127b2c14c0bccded44d6eb63207b6d47e5bb5a0a425acce847102c75f34",
+      "source_bytes": 1271,
+      "kind": "asset",
+      "preserved_sha256": "4fda4127b2c14c0bccded44d6eb63207b6d47e5bb5a0a425acce847102c75f34"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/bootstrap-es5.min.js",
+      "local_path": "assets/fc1beac01b70d750-bootstrap-es5.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "51beab6cdcb6bb48fa2fa31c397019135f79bc27cd6a2b0ab8abfed883135c05",
+      "source_bytes": 142888,
+      "kind": "asset",
+      "preserved_sha256": "51beab6cdcb6bb48fa2fa31c397019135f79bc27cd6a2b0ab8abfed883135c05"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/button.min.js",
+      "local_path": "assets/63046734b308b340-button.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "0d1a1cbd8c825333af940cb4bd9de5fa5a2c57f26ca9034ac45c9e4d758d481d",
+      "source_bytes": 1074,
+      "kind": "asset",
+      "preserved_sha256": "0d1a1cbd8c825333af940cb4bd9de5fa5a2c57f26ca9034ac45c9e4d758d481d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/carousel.min.js",
+      "local_path": "assets/8e3ed1c2848fb3a9-carousel.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "9760030a02804d68a48812735735669f019e777235d80d3c7264825f898b309d",
+      "source_bytes": 9751,
+      "kind": "asset",
+      "preserved_sha256": "9760030a02804d68a48812735735669f019e777235d80d3c7264825f898b309d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/collapse.min.js",
+      "local_path": "assets/4f147640461e618c-collapse.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "ed121d4aa40f210e3317c9251e05c042e2051dfdd33b314fdd38ffe8f372b247",
+      "source_bytes": 5430,
+      "kind": "asset",
+      "preserved_sha256": "ed121d4aa40f210e3317c9251e05c042e2051dfdd33b314fdd38ffe8f372b247"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/dropdown.min.js",
+      "local_path": "assets/64e1a1d17a373570-dropdown.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "3be5c0adfc8668e2bb395ff4752603d1ea4a6caf19defd603f23e18f1aa84301",
+      "source_bytes": 8427,
+      "kind": "asset",
+      "preserved_sha256": "3be5c0adfc8668e2bb395ff4752603d1ea4a6caf19defd603f23e18f1aa84301"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/modal.min.js",
+      "local_path": "assets/2f36d6412066f536-modal.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "e92a1081e55b50e5ac920c52ed88264130a1f5ae1a7de866e69e6242c3d5a49f",
+      "source_bytes": 9150,
+      "kind": "asset",
+      "preserved_sha256": "e92a1081e55b50e5ac920c52ed88264130a1f5ae1a7de866e69e6242c3d5a49f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/offcanvas.min.js",
+      "local_path": "assets/399849c16fbf6fe7-offcanvas.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "db5201a5d9594ab916f8e36bc860ad6700c96dea5bcdc6f83108fb0a1fe6fe9c",
+      "source_bytes": 4340,
+      "kind": "asset",
+      "preserved_sha256": "db5201a5d9594ab916f8e36bc860ad6700c96dea5bcdc6f83108fb0a1fe6fe9c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/popover.min.js",
+      "local_path": "assets/d430f83c7d7576de-popover.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "5bb560c806bd99a79b51256ff7b0fc93202c4ac152f25da2c4fb2526bfbc9efa",
+      "source_bytes": 14630,
+      "kind": "asset",
+      "preserved_sha256": "5bb560c806bd99a79b51256ff7b0fc93202c4ac152f25da2c4fb2526bfbc9efa"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/scrollspy.min.js",
+      "local_path": "assets/46b63e63dbff1eea-scrollspy.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "1f8461e9dbe15714311eb0c113612e5efdf0c5670a7dafb715baa9da3b1be31d",
+      "source_bytes": 4906,
+      "kind": "asset",
+      "preserved_sha256": "1f8461e9dbe15714311eb0c113612e5efdf0c5670a7dafb715baa9da3b1be31d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/tab.min.js",
+      "local_path": "assets/b0344a81ae0b93ff-tab.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "3da1cdb0639fcda1374ed320ccfb17711f783e41a4fcaccb1475733eb1811210",
+      "source_bytes": 4209,
+      "kind": "asset",
+      "preserved_sha256": "3da1cdb0639fcda1374ed320ccfb17711f783e41a4fcaccb1475733eb1811210"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/bootstrap/js/toast.min.js",
+      "local_path": "assets/bdf8c356bbc7f64a-toast.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "b6dadd0d56c4fd961282d5edce4bdadd57aa627ad2ce9af3a9cccabfc778941d",
+      "source_bytes": 3741,
+      "kind": "asset",
+      "preserved_sha256": "b6dadd0d56c4fd961282d5edce4bdadd57aa627ad2ce9af3a9cccabfc778941d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/joomla-custom-elements/css/joomla-alert.min.css",
+      "local_path": "assets/d8abcc88ab6296b5-joomla-alert.min.css",
+      "content_type": "text/css",
+      "source_sha256": "70afa630568bdfee5b7ce97098eeb038d6a1bb9af0a406dd0682efc9c00a2a29",
+      "source_bytes": 3964,
+      "kind": "asset",
+      "preserved_sha256": "70afa630568bdfee5b7ce97098eeb038d6a1bb9af0a406dd0682efc9c00a2a29"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/vendor/jquery/js/jquery.min.js",
+      "local_path": "assets/4981912de128e079-jquery.min.js",
+      "content_type": "text/javascript",
+      "source_sha256": "ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e",
+      "source_bytes": 89501,
+      "kind": "asset",
+      "preserved_sha256": "ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/base.css",
+      "local_path": "assets/9c01db127254722a-base.css",
+      "content_type": "text/css",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "kind": "asset",
+      "preserved_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/bootstrap-theme.min.css",
+      "local_path": "assets/f00419c2ef9bccee-bootstrap-theme.min.css",
+      "content_type": "text/css",
+      "source_sha256": "c72060928bf66e8ff55b42e653f95429d4777769d790921ff8390eb1068da303",
+      "source_bytes": 13185,
+      "kind": "asset",
+      "preserved_sha256": "f7b30a7eabefc3996a33a170fded8d2eb027dd87bc313aeebdcd3528fb8d65e1"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/bootstrap.min.css",
+      "local_path": "assets/3016e9b79639f2ad-bootstrap.min.css",
+      "content_type": "text/css",
+      "source_sha256": "e9503448692b738dd260fbd7f7cabf2e11f09b600fa97e6eb3a56eba5b1a7e9b",
+      "source_bytes": 99961,
+      "kind": "asset",
+      "preserved_sha256": "8fabe53e7bf721eab029d8397286fe8672bcfb824ba35d7b1197598a86fce5b3"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/new_unal.css",
+      "local_path": "assets/c8aea3188165bdcf-new_unal.css",
+      "content_type": "text/css",
+      "source_sha256": "9c6b3e3ab32a2fc40107a2b4895230a01cd46e10134acc2c39816133b7e1d9d9",
+      "source_bytes": 13784,
+      "kind": "asset",
+      "preserved_sha256": "09d9addfd802f00c2fecc337f5d8e461732242ef63c5db8370cf56eab3af0610"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/phone.css",
+      "local_path": "assets/c53e572fb5e54be0-phone.css",
+      "content_type": "text/css",
+      "source_sha256": "f93258277c1ab1ec01905874dd185167699fc1003c7647386e400bb920e6e939",
+      "source_bytes": 58,
+      "kind": "asset",
+      "preserved_sha256": "7ced4c16a4881db836e1fa21b67fccd94e14df6ae4a90ae141d3c6edddaa6ee5"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/printer.css",
+      "local_path": "assets/f9924175f1c36231-printer.css",
+      "content_type": "text/css",
+      "source_sha256": "bc9c0d4726eaca8fc757c3bb52cf1fd5a297523c5e68daa97d38910bdbde02a4",
+      "source_bytes": 1823,
+      "kind": "asset",
+      "preserved_sha256": "6cf63791c5cf31c286772b75d13344d606a30a7e659f8f837ca01ac150b31ed6"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/reset.css",
+      "local_path": "assets/1eda683fa05636cb-reset.css",
+      "content_type": "text/css",
+      "source_sha256": "a533172b8ba5f2a6c7ef11e55895e44d5676434a0458764b007436472bc90acd",
+      "source_bytes": 3768,
+      "kind": "asset",
+      "preserved_sha256": "1b6382a880d00f7946da822759c2194278b4ca5ff048989cc6087525d2c739f6"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/small.css",
+      "local_path": "assets/fc925c722274bec7-small.css",
+      "content_type": "text/css",
+      "source_sha256": "3dd00f40551c7d9fd14715da5291df718e63f9a9c048a477449b4117e2259acf",
+      "source_bytes": 105,
+      "kind": "asset",
+      "preserved_sha256": "b85b32ed8516cab09e91f4ec1e4f3b2951939e671ca4392019c25a7491d08ae9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/tablet.css",
+      "local_path": "assets/bf8bc64f07ab950a-tablet.css",
+      "content_type": "text/css",
+      "source_sha256": "060c9601a9ed66473aa29e355e8f2417802a7b3ad786c65434b6e256384e25c0",
+      "source_bytes": 59,
+      "kind": "asset",
+      "preserved_sha256": "a0d0e85568ab5c59916916d1c692ff716888b6a99103800a85fa443b410d3f59"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/css/unal.css",
+      "local_path": "assets/b16931c6c098c93c-unal.css",
+      "content_type": "text/css",
+      "source_sha256": "f2e1b42e5b6f4e48dd13723563445f961b4dce21a9f2de9e49bf224e80e6dbc1",
+      "source_bytes": 28103,
+      "kind": "asset",
+      "preserved_sha256": "78695b46532252413a769d51dda42b4ef8cacbd2d30c28a1726696be96a135f9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/icons/elusive/css/elusive-icons.min.css",
+      "local_path": "assets/9917fc425b2bfac1-elusive-icons.min.css",
+      "content_type": "text/css",
+      "source_sha256": "0f48655999a70bc8797ff87c331fbc2c9111eb0f49869a0d6065222b98ce7ed3",
+      "source_bytes": 14102,
+      "kind": "asset",
+      "preserved_sha256": "1be12aae43e052a11361109dda2429f1dd35da7c09e72d89240b47502221e6f9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/escudoUnal_black.png",
+      "local_path": "assets/27ea086226b83146-escudoUnal_black.png",
+      "content_type": "image/png",
+      "source_sha256": "f03f4d2e4dacdd5c8569addb53eb0dfe581a30e296a71cdfd5865b00249df3ac",
+      "source_bytes": 10295,
+      "kind": "asset",
+      "preserved_sha256": "f03f4d2e4dacdd5c8569addb53eb0dfe581a30e296a71cdfd5865b00249df3ac"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/favicon.ico",
+      "local_path": "assets/1bdf3d559be5fa32-favicon.ico",
+      "content_type": "image/vnd.microsoft.icon",
+      "source_sha256": "79af281f20268ab4d0b60d55e12436de0fbb3d294f0ee6d96e0458481e085e65",
+      "source_bytes": 1150,
+      "kind": "asset",
+      "preserved_sha256": "79af281f20268ab4d0b60d55e12436de0fbb3d294f0ee6d96e0458481e085e65"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnServCall.png",
+      "local_path": "assets/b34de64c28a04f96-icnServCall.png",
+      "content_type": "image/png",
+      "source_sha256": "b6f6616b3aff4a3934a59ab466c79de669fb6a86028640c2accb9a31250f0a97",
+      "source_bytes": 1555,
+      "kind": "asset",
+      "preserved_sha256": "b6f6616b3aff4a3934a59ab466c79de669fb6a86028640c2accb9a31250f0a97"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnServEmail.png",
+      "local_path": "assets/7bcc4625292a38cb-icnServEmail.png",
+      "content_type": "image/png",
+      "source_sha256": "932e2a638d841ae15689f3230adfa25f511611eeb34ca8e06e8b0155937aa9bf",
+      "source_bytes": 1491,
+      "kind": "asset",
+      "preserved_sha256": "932e2a638d841ae15689f3230adfa25f511611eeb34ca8e06e8b0155937aa9bf"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnServIdentidad.png",
+      "local_path": "assets/e82fbe740ba07a5e-icnServIdentidad.png",
+      "content_type": "image/png",
+      "source_sha256": "a03dd58818d014516ed20d3aaae6b9faf24e7bfcf749164146b32a768473a2db",
+      "source_bytes": 43355,
+      "kind": "asset",
+      "preserved_sha256": "a03dd58818d014516ed20d3aaae6b9faf24e7bfcf749164146b32a768473a2db"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnServLibrary.png",
+      "local_path": "assets/4f927de63cee25d7-icnServLibrary.png",
+      "content_type": "image/png",
+      "source_sha256": "d125006d5620e0d7998d7be77addcebc281d8e61c298eff03237884f4c433dff",
+      "source_bytes": 1560,
+      "kind": "asset",
+      "preserved_sha256": "d125006d5620e0d7998d7be77addcebc281d8e61c298eff03237884f4c433dff"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnServSia.png",
+      "local_path": "assets/5b474472bf238aa3-icnServSia.png",
+      "content_type": "image/png",
+      "source_sha256": "36b611d28c8c41168c4c16da58d1c05d9fdfebf5ebfd3dd7a10e57f7a05c52e0",
+      "source_bytes": 1518,
+      "kind": "asset",
+      "preserved_sha256": "36b611d28c8c41168c4c16da58d1c05d9fdfebf5ebfd3dd7a10e57f7a05c52e0"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnServUncupo.png",
+      "local_path": "assets/0b7d6b89c7c50bf6-icnServUncupo.png",
+      "content_type": "image/png",
+      "source_sha256": "65149f375a442933d667024a8066bd8cae7de295f869ad2283442e6b692e8eec",
+      "source_bytes": 14818,
+      "kind": "asset",
+      "preserved_sha256": "65149f375a442933d667024a8066bd8cae7de295f869ad2283442e6b692e8eec"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnServUnticket.png",
+      "local_path": "assets/539c5e68291a738c-icnServUnticket.png",
+      "content_type": "image/png",
+      "source_sha256": "b7ba2f647bf57c588016f9bb279e4522d2e37899c709309fc81b557f9fb7dc8f",
+      "source_bytes": 643,
+      "kind": "asset",
+      "preserved_sha256": "b7ba2f647bf57c588016f9bb279e4522d2e37899c709309fc81b557f9fb7dc8f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnServUnticketMant.png",
+      "local_path": "assets/efb27978bbe5930f-icnServUnticketMant.png",
+      "content_type": "image/png",
+      "source_sha256": "6f741c56139af909fa1c3451039077a375432269b79e138c83c7b790b0bea42c",
+      "source_bytes": 11257,
+      "kind": "asset",
+      "preserved_sha256": "6f741c56139af909fa1c3451039077a375432269b79e138c83c7b790b0bea42c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/log_agenc.png",
+      "local_path": "assets/a1bf15c9da65fb29-log_agenc.png",
+      "content_type": "image/png",
+      "source_sha256": "298935e8bb52dec9ff3b2c399eb7bd6372f8fa496dcf5f3a30e2e067869615db",
+      "source_bytes": 1297,
+      "kind": "asset",
+      "preserved_sha256": "298935e8bb52dec9ff3b2c399eb7bd6372f8fa496dcf5f3a30e2e067869615db"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/log_agenc_black.png",
+      "local_path": "assets/73082df7517cc5b9-log_agenc_black.png",
+      "content_type": "image/png",
+      "source_sha256": "cb9cac769943a5d1f3fca78665a165ffb54b54f15e8d85bfef5668928abd9608",
+      "source_bytes": 2723,
+      "kind": "asset",
+      "preserved_sha256": "cb9cac769943a5d1f3fca78665a165ffb54b54f15e8d85bfef5668928abd9608"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/log_contra.png",
+      "local_path": "assets/868129327e65397b-log_contra.png",
+      "content_type": "image/png",
+      "source_sha256": "725890175786ad6ca4068f1031c3fa93fa21142f29ceba83d6b45dd50f069191",
+      "source_bytes": 1953,
+      "kind": "asset",
+      "preserved_sha256": "725890175786ad6ca4068f1031c3fa93fa21142f29ceba83d6b45dd50f069191"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/log_gobiern.png",
+      "local_path": "assets/14cc4320c3056b5c-log_gobiern.png",
+      "content_type": "image/png",
+      "source_sha256": "8197c674414a54a565f26a5917e6b3d53d4f276c030a18805e98c80b188db5f7",
+      "source_bytes": 2868,
+      "kind": "asset",
+      "preserved_sha256": "8197c674414a54a565f26a5917e6b3d53d4f276c030a18805e98c80b188db5f7"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/log_orgullo.png",
+      "local_path": "assets/461a88b53359dbe7-log_orgullo.png",
+      "content_type": "image/png",
+      "source_sha256": "3b2a0ef64e3af56b0c2b126086e2d0e1c1375827f29c338149be95603451ae42",
+      "source_bytes": 2299,
+      "kind": "asset",
+      "preserved_sha256": "3b2a0ef64e3af56b0c2b126086e2d0e1c1375827f29c338149be95603451ae42"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/log_orgullo_black.png",
+      "local_path": "assets/d45682f08f259af8-log_orgullo_black.png",
+      "content_type": "image/png",
+      "source_sha256": "231319eed08fee7b36f798a6283831d567db2bd8860cb5ea0b06bb013ed20dc9",
+      "source_bytes": 2044,
+      "kind": "asset",
+      "preserved_sha256": "231319eed08fee7b36f798a6283831d567db2bd8860cb5ea0b06bb013ed20dc9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/sealColombia.png",
+      "local_path": "assets/9e17489cb094762c-sealColombia.png",
+      "content_type": "image/png",
+      "source_sha256": "3220b27929f652682ad58dccf41b49795776ec36c392f30eeba221004231f71f",
+      "source_bytes": 7889,
+      "kind": "asset",
+      "preserved_sha256": "3220b27929f652682ad58dccf41b49795776ec36c392f30eeba221004231f71f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/sealColombia_black.png",
+      "local_path": "assets/945922a7a75510a8-sealColombia_black.png",
+      "content_type": "image/png",
+      "source_sha256": "e67dfcd91aaa938f3d619b220dcf70a5a27b9349d7f15e9db0884399fdf6249b",
+      "source_bytes": 3678,
+      "kind": "asset",
+      "preserved_sha256": "e67dfcd91aaa938f3d619b220dcf70a5a27b9349d7f15e9db0884399fdf6249b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/js/unal.js",
+      "local_path": "assets/4791702c29e3f7ed-unal.js",
+      "content_type": "text/javascript",
+      "source_sha256": "a0c478ba28570db916bced68fe50f70bd2e59377e9e87608769186d2bdbdaa3a",
+      "source_bytes": 5443,
+      "kind": "asset",
+      "preserved_sha256": "23595b6a4df09d1220fc9add3e073e3c09b49ca3290d2a9018c08894ff5920aa"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/css/all.css",
+      "local_path": "assets/792151220c5d6f43-all.css",
+      "content_type": "text/css",
+      "source_sha256": "43730866612149a27f49159d7c4f19185c8694bb91bf41abc884a6fe1346e96e",
+      "source_bytes": 41065,
+      "kind": "asset",
+      "preserved_sha256": "598307ca08feb3f98178971873c6b661d8044f887a2883c784cdfa43d09954ad"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf",
+      "local_path": "assets/71de37925e5dc6e5-pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "5ae2e73256cfbf88ccbadfdca925c95d892b57b4f3358d32b6be90c01e75a0fe",
+      "source_bytes": 17568,
+      "kind": "asset",
+      "preserved_sha256": "5ae2e73256cfbf88ccbadfdca925c95d892b57b4f3358d32b6be90c01e75a0fe"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf",
+      "local_path": "assets/9662b397e1de6e4a-pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "a27d2b3a061c351a397130d5d5b9b692845367f065e8c8a686b97b4fa6296278",
+      "source_bytes": 15664,
+      "kind": "asset",
+      "preserved_sha256": "a27d2b3a061c351a397130d5d5b9b692845367f065e8c8a686b97b4fa6296278"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf",
+      "local_path": "assets/8bb0f6e68e716883-pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "884d2cd5ba1b567924c3d174d5cb03f9ad49777bd3c4aa97ce01567acdcdf587",
+      "source_bytes": 15816,
+      "kind": "asset",
+      "preserved_sha256": "884d2cd5ba1b567924c3d174d5cb03f9ad49777bd3c4aa97ce01567acdcdf587"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf",
+      "local_path": "assets/9c2adccb671cc524-pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "d4c43b933d37c951df952d0ad274d965a9d2c5f82cb41f031b76e3f1d94b0cc1",
+      "source_bytes": 15708,
+      "kind": "asset",
+      "preserved_sha256": "d4c43b933d37c951df952d0ad274d965a9d2c5f82cb41f031b76e3f1d94b0cc1"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf",
+      "local_path": "assets/dcdc4b8de159adb9-pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "dbeb32e5ae3eef3ded3cc187bc787c7c0fb8c59ddd49712400d16e77b450184b",
+      "source_bytes": 16172,
+      "kind": "asset",
+      "preserved_sha256": "dbeb32e5ae3eef3ded3cc187bc787c7c0fb8c59ddd49712400d16e77b450184b"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf",
+      "local_path": "assets/1c1b27cc981cf923-pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "53eaa58cf4e7fc8d68a3b557ad8f67b8b6613e7431e87a6ca896948c53ef2d35",
+      "source_bytes": 16044,
+      "kind": "asset",
+      "preserved_sha256": "53eaa58cf4e7fc8d68a3b557ad8f67b8b6613e7431e87a6ca896948c53ef2d35"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf",
+      "local_path": "assets/9663fcad2359f40c-pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "4fb5b47d39a57126af0d08fa4628bfa8fa466af9e8c6be06f7308b07622c17b7",
+      "source_bytes": 16288,
+      "kind": "asset",
+      "preserved_sha256": "4fb5b47d39a57126af0d08fa4628bfa8fa466af9e8c6be06f7308b07622c17b7"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf",
+      "local_path": "assets/6fb22200fc57c0ba-pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "9d62ef284ac53a609354be09b50d566bb18c4bb1cb8d63db8ed05d7ef8db1efe",
+      "source_bytes": 16100,
+      "kind": "asset",
+      "preserved_sha256": "9d62ef284ac53a609354be09b50d566bb18c4bb1cb8d63db8ed05d7ef8db1efe"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf",
+      "local_path": "assets/c9f1425b4fb3e5d5-pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "87c070d16f171af3a309139cf233fb08772037823dfb03a951483c6974b1740c",
+      "source_bytes": 17060,
+      "kind": "asset",
+      "preserved_sha256": "87c070d16f171af3a309139cf233fb08772037823dfb03a951483c6974b1740c"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf",
+      "local_path": "assets/62b22f56c2a77e9c-pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "5d5f0be3c2182630b698568ab354838fa602b6dcf0e71bf553f14510fcce98e4",
+      "source_bytes": 17432,
+      "kind": "asset",
+      "preserved_sha256": "5d5f0be3c2182630b698568ab354838fa602b6dcf0e71bf553f14510fcce98e4"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf",
+      "local_path": "assets/ad751cc79f175cd2-pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "f59f27f28af01214b7b3618675d679744706d59fc9ea0755790df012cedb7007",
+      "source_bytes": 17040,
+      "kind": "asset",
+      "preserved_sha256": "f59f27f28af01214b7b3618675d679744706d59fc9ea0755790df012cedb7007"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf",
+      "local_path": "assets/f4a89bfa07e52e85-pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "4a01b657ebfa23de41ab586ac12cd4eb3a264a66448269d9bed698ff64ca6e06",
+      "source_bytes": 17360,
+      "kind": "asset",
+      "preserved_sha256": "4a01b657ebfa23de41ab586ac12cd4eb3a264a66448269d9bed698ff64ca6e06"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf",
+      "local_path": "assets/e9e84193475731c4-pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "1722a2e9d27c4f987995771acfea21f2fc3f9836ba5dce66087a7205183d000b",
+      "source_bytes": 17296,
+      "kind": "asset",
+      "preserved_sha256": "1722a2e9d27c4f987995771acfea21f2fc3f9836ba5dce66087a7205183d000b"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf",
+      "local_path": "assets/4aae4b279c6880a2-pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "a3aafad03dd7e9510a908ba9f34e276b2cf36cd002c29afcf30c0b7130f8af3c",
+      "source_bytes": 17504,
+      "kind": "asset",
+      "preserved_sha256": "a3aafad03dd7e9510a908ba9f34e276b2cf36cd002c29afcf30c0b7130f8af3c"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf",
+      "local_path": "assets/988d8744c89e6766-pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "4c602bcfada1346de5ac228744c06aed3d4c08158d446f13b97ee5edebb7b934",
+      "source_bytes": 17104,
+      "kind": "asset",
+      "preserved_sha256": "4c602bcfada1346de5ac228744c06aed3d4c08158d446f13b97ee5edebb7b934"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf",
+      "local_path": "assets/9956463e700008e6-pxiEyp8kv8JHgFVrJJfedw.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "66807e8e108c648c970aeace0886706f8c95c616f036529a4b628525208f18e8",
+      "source_bytes": 16148,
+      "kind": "asset",
+      "preserved_sha256": "66807e8e108c648c970aeace0886706f8c95c616f036529a4b628525208f18e8"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf",
+      "local_path": "assets/c2b6da15802bcf51-pxiGyp8kv8JHgFVrJJLucHtF.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "468ccd6567d7fcd1f11bc2479846fe367946a821a013c38d49190d329f8d6ac5",
+      "source_bytes": 17340,
+      "kind": "asset",
+      "preserved_sha256": "468ccd6567d7fcd1f11bc2479846fe367946a821a013c38d49190d329f8d6ac5"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf",
+      "local_path": "assets/cb8b9b2e1157b290-pxiGyp8kv8JHgFVrLPTucHtF.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "4feed4d465c05e60013ceb7b55e3c9026e202db7b6f432d94ccd95a7267b0122",
+      "source_bytes": 16348,
+      "kind": "asset",
+      "preserved_sha256": "4feed4d465c05e60013ceb7b55e3c9026e202db7b6f432d94ccd95a7267b0122"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf",
+      "local_path": "assets/a02b2058059c22dc-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "2c704b1b3704d74e187d0c7ba1d0fef816f8c9cbb02ebeba97f1eb0cf96a9b3a",
+      "source_bytes": 48916,
+      "kind": "asset",
+      "preserved_sha256": "2c704b1b3704d74e187d0c7ba1d0fef816f8c9cbb02ebeba97f1eb0cf96a9b3a"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf",
+      "local_path": "assets/a5c049a3a693d56f-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "9b50c05dff735c5fe5402de3fe505e5d1e3ce861a6288507767edd05c4b05fe2",
+      "source_bytes": 48920,
+      "kind": "asset",
+      "preserved_sha256": "9b50c05dff735c5fe5402de3fe505e5d1e3ce861a6288507767edd05c4b05fe2"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf",
+      "local_path": "assets/484e76827dc98721-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "94b0e0e6e0fa663d793516ec95375908e8e52822bebda56bb370b078fd215d90",
+      "source_bytes": 48808,
+      "kind": "asset",
+      "preserved_sha256": "94b0e0e6e0fa663d793516ec95375908e8e52822bebda56bb370b078fd215d90"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf",
+      "local_path": "assets/d2b88f8064661101-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "93477d332f1e2776e83916ba34736511bdc5cd5a60eb9fb351b97c746af51cb3",
+      "source_bytes": 48884,
+      "kind": "asset",
+      "preserved_sha256": "93477d332f1e2776e83916ba34736511bdc5cd5a60eb9fb351b97c746af51cb3"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf",
+      "local_path": "assets/f9f24f8ff51f90d1-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "9b76c3aa4b48ac7854296a4891f81c0955601c2f77dae93ff71d5f65106ca172",
+      "source_bytes": 48856,
+      "kind": "asset",
+      "preserved_sha256": "9b76c3aa4b48ac7854296a4891f81c0955601c2f77dae93ff71d5f65106ca172"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf",
+      "local_path": "assets/1a628389c344c31e-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "de264c9026b7a725093db527466bb6567bb8ecb3b3a4f0a578fcc806ef3d36f3",
+      "source_bytes": 48960,
+      "kind": "asset",
+      "preserved_sha256": "de264c9026b7a725093db527466bb6567bb8ecb3b3a4f0a578fcc806ef3d36f3"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf",
+      "local_path": "assets/d8409ea78aa0243c-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "14d3c6d285c6d56c71c70bfe15a3900771d04a4bf29e3f5584c04f542bc51211",
+      "source_bytes": 48720,
+      "kind": "asset",
+      "preserved_sha256": "14d3c6d285c6d56c71c70bfe15a3900771d04a4bf29e3f5584c04f542bc51211"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf",
+      "local_path": "assets/d92167ce1f3699db-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "0f74735b91d4e62eb365e494d05b98a4f8f6e3ca5916b9539e47e1f76c9ed852",
+      "source_bytes": 48940,
+      "kind": "asset",
+      "preserved_sha256": "0f74735b91d4e62eb365e494d05b98a4f8f6e3ca5916b9539e47e1f76c9ed852"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf",
+      "local_path": "assets/640185e28f0a7715-1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "c6c1dfd035b4fc9fc08c5dcc31dac10264c5509e16cf31087f035a4782df25ce",
+      "source_bytes": 48964,
+      "kind": "asset",
+      "preserved_sha256": "c6c1dfd035b4fc9fc08c5dcc31dac10264c5509e16cf31087f035a4782df25ce"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf",
+      "local_path": "assets/3cb2e7abbfd2bf7b-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "76a3a5d0dd02ab1b49e7e70a5652108c0ee9885e3b1377ce8f7881885db56172",
+      "source_bytes": 49512,
+      "kind": "asset",
+      "preserved_sha256": "76a3a5d0dd02ab1b49e7e70a5652108c0ee9885e3b1377ce8f7881885db56172"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf",
+      "local_path": "assets/cbacf63e1d54d3e4-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "c54c98da675566b777fe30f52fff11021d0e84ac164f2b905a3f07ce0a526682",
+      "source_bytes": 49600,
+      "kind": "asset",
+      "preserved_sha256": "c54c98da675566b777fe30f52fff11021d0e84ac164f2b905a3f07ce0a526682"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf",
+      "local_path": "assets/4b683dd79bccb5c5-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "eb88555f2536714a8d405e219d72cd4e84366afdc00c553941ccfcffda639d68",
+      "source_bytes": 49612,
+      "kind": "asset",
+      "preserved_sha256": "eb88555f2536714a8d405e219d72cd4e84366afdc00c553941ccfcffda639d68"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf",
+      "local_path": "assets/c3eb9d1361e217a2-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "a1396fce3bd46726748f93c6d4f38747539ad2f2b49398cd819072ae6d37522e",
+      "source_bytes": 49572,
+      "kind": "asset",
+      "preserved_sha256": "a1396fce3bd46726748f93c6d4f38747539ad2f2b49398cd819072ae6d37522e"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf",
+      "local_path": "assets/244fa72d91c3b9f3-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "22f14d3bea459d729c75ad9beaea66dc048970f7cf03ca42fbdacdc2686f0318",
+      "source_bytes": 49396,
+      "kind": "asset",
+      "preserved_sha256": "22f14d3bea459d729c75ad9beaea66dc048970f7cf03ca42fbdacdc2686f0318"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf",
+      "local_path": "assets/2973b56f4f50c4fd-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "640b109ffec25181b2b58dcf7272bd8cce5cd8e72dbba68aeaf04ef709342b38",
+      "source_bytes": 49556,
+      "kind": "asset",
+      "preserved_sha256": "640b109ffec25181b2b58dcf7272bd8cce5cd8e72dbba68aeaf04ef709342b38"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf",
+      "local_path": "assets/a648797882f3fcc5-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "addd444f5fe75a2d7f7d22b7a3e43fa2bc6e761615c82fce889436854dc5efbd",
+      "source_bytes": 49532,
+      "kind": "asset",
+      "preserved_sha256": "addd444f5fe75a2d7f7d22b7a3e43fa2bc6e761615c82fce889436854dc5efbd"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf",
+      "local_path": "assets/0dbdd5048556689c-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "50432fc4fcd6a91645e1e41400341363afbf4b17233fd2a28bfd3e8c98798cf0",
+      "source_bytes": 49552,
+      "kind": "asset",
+      "preserved_sha256": "50432fc4fcd6a91645e1e41400341363afbf4b17233fd2a28bfd3e8c98798cf0"
+    },
+    {
+      "source_url": "https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf",
+      "local_path": "assets/46dc1817671adaf4-1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "e4331f17c444974e8f45ed82dc5418e6e543b8e774fb62e05f7bbf1c92cb56b7",
+      "source_bytes": 49552,
+      "kind": "asset",
+      "preserved_sha256": "e4331f17c444974e8f45ed82dc5418e6e543b8e774fb62e05f7bbf1c92cb56b7"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Abel/MwQ5bhbm2POE2V9BPQ.woff2",
+      "local_path": "assets/0d384f4758e24d1a-MwQ5bhbm2POE2V9BPQ.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "8bea498aed7cc1366e8b966e467b98219c803107d728eab8a6c4c9b045def699",
+      "source_bytes": 9588,
+      "kind": "asset",
+      "preserved_sha256": "8bea498aed7cc1366e8b966e467b98219c803107d728eab8a6c4c9b045def699"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Nunito/XRXV3I6Li01BKofIMeaBXso.woff2",
+      "local_path": "assets/704b037694021181-XRXV3I6Li01BKofIMeaBXso.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "7ca4b4bb8be6840990cc92b2dee938f142df99c93ce85063b391a09369b63b17",
+      "source_bytes": 20824,
+      "kind": "asset",
+      "preserved_sha256": "7ca4b4bb8be6840990cc92b2dee938f142df99c93ce85063b391a09369b63b17"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Nunito/XRXV3I6Li01BKofINeaB.woff2",
+      "local_path": "assets/42ed4ed7eccbf9ce-XRXV3I6Li01BKofINeaB.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "96217f1d27fb909f92b4a6b35a0d3d6775f2f0b4d136d27aee88547d3ed87357",
+      "source_bytes": 35904,
+      "kind": "asset",
+      "preserved_sha256": "96217f1d27fb909f92b4a6b35a0d3d6775f2f0b4d136d27aee88547d3ed87357"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Nunito/XRXV3I6Li01BKofIO-aBXso.woff2",
+      "local_path": "assets/e2f4e0708993369c-XRXV3I6Li01BKofIO-aBXso.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "89def7428656f40331c1430ee1dc1846ed1e30d7001707b548f9f816d27264a5",
+      "source_bytes": 32720,
+      "kind": "asset",
+      "preserved_sha256": "89def7428656f40331c1430ee1dc1846ed1e30d7001707b548f9f816d27264a5"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Nunito/XRXV3I6Li01BKofIOOaBXso.woff2",
+      "local_path": "assets/91476af8b55f5be0-XRXV3I6Li01BKofIOOaBXso.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "b2611fa3f916d23df9b0735ba668944500ff23b73f9da4fbb10818c875d482a0",
+      "source_bytes": 28960,
+      "kind": "asset",
+      "preserved_sha256": "b2611fa3f916d23df9b0735ba668944500ff23b73f9da4fbb10818c875d482a0"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Nunito/XRXV3I6Li01BKofIOuaBXso.woff2",
+      "local_path": "assets/3d58924f3ec6b707-XRXV3I6Li01BKofIOuaBXso.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "0ef9726dbc36b5871efa4b0cfdc43fd1bfed5dd48aeb70dc8210e8cb9bc9247b",
+      "source_bytes": 10632,
+      "kind": "asset",
+      "preserved_sha256": "0ef9726dbc36b5871efa4b0cfdc43fd1bfed5dd48aeb70dc8210e8cb9bc9247b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2",
+      "local_path": "assets/b9869c99da32d4a7-KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "6deb20301c65a96db17c433ad0cf8158cc434cba08c94f9b91814ea0fece024e",
+      "source_bytes": 10640,
+      "kind": "asset",
+      "preserved_sha256": "6deb20301c65a96db17c433ad0cf8158cc434cba08c94f9b91814ea0fece024e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2",
+      "local_path": "assets/ae2acd9d589d87ff-KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "7af61b2367eba2b1852e837c46a75696c130fd67b934aae77f9f082a5a771416",
+      "source_bytes": 12848,
+      "kind": "asset",
+      "preserved_sha256": "7af61b2367eba2b1852e837c46a75696c130fd67b934aae77f9f082a5a771416"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2",
+      "local_path": "assets/cd5bf3edebc02caa-KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "2e10480d4154762bc7c8fbb40877e104f45bf1406b769e9dd76981e489e61586",
+      "source_bytes": 5928,
+      "kind": "asset",
+      "preserved_sha256": "2e10480d4154762bc7c8fbb40877e104f45bf1406b769e9dd76981e489e61586"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2",
+      "local_path": "assets/0bdf47d3b1a09633-KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "63111d307c01b52ffccf7b0319cb79178d0160615d0a59f5fd0d0afd52e2f05f",
+      "source_bytes": 1540,
+      "kind": "asset",
+      "preserved_sha256": "63111d307c01b52ffccf7b0319cb79178d0160615d0a59f5fd0d0afd52e2f05f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2",
+      "local_path": "assets/09ead125664c080b-KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "4c815fdc869f885520f7c8eae6730edf6b44d5d1ae19c399de60b96fe180796c",
+      "source_bytes": 16608,
+      "kind": "asset",
+      "preserved_sha256": "4c815fdc869f885520f7c8eae6730edf6b44d5d1ae19c399de60b96fe180796c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2",
+      "local_path": "assets/987ae163aa07acd7-KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "e56cc9fb5272752b78f144b4be43175dffea2ed4fa6304a58d4f483fe4814ad2",
+      "source_bytes": 7608,
+      "kind": "asset",
+      "preserved_sha256": "e56cc9fb5272752b78f144b4be43175dffea2ed4fa6304a58d4f483fe4814ad2"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2",
+      "local_path": "assets/a46317cb35c5b346-KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "661d4b208656c006e7aab58acf7784857963123675de2302279fbe6c05313547",
+      "source_bytes": 17336,
+      "kind": "asset",
+      "preserved_sha256": "661d4b208656c006e7aab58acf7784857963123675de2302279fbe6c05313547"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2",
+      "local_path": "assets/29ef28e34c17a48d-KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "3728fbdd191d75bad5b83a838dfe2fc15f84c2aaa36ffa573321275847db31a9",
+      "source_bytes": 9840,
+      "kind": "asset",
+      "preserved_sha256": "3728fbdd191d75bad5b83a838dfe2fc15f84c2aaa36ffa573321275847db31a9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "local_path": "assets/fc5d6a6af35d13d0-KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "b019538234514166ec7665359d097403358f8a4c991901983922fb4d56989f1e",
+      "source_bytes": 15920,
+      "kind": "asset",
+      "preserved_sha256": "b019538234514166ec7665359d097403358f8a4c991901983922fb4d56989f1e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2",
+      "local_path": "assets/5a7951158d702fba-KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "713780d8b30bda5583052ea847cdcb4f2956c2ac5ff38a7e538ba8f14ad1043e",
+      "source_bytes": 7016,
+      "kind": "asset",
+      "preserved_sha256": "713780d8b30bda5583052ea847cdcb4f2956c2ac5ff38a7e538ba8f14ad1043e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2",
+      "local_path": "assets/47f39eeb0cbd8e8c-KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "ef8f0236a7e8b46bc9d642ecf4ab0cb7bad7c4182108612ce8f4fb1e2d570b40",
+      "source_bytes": 1500,
+      "kind": "asset",
+      "preserved_sha256": "ef8f0236a7e8b46bc9d642ecf4ab0cb7bad7c4182108612ce8f4fb1e2d570b40"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2",
+      "local_path": "assets/c0055090a8d156ea-KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "aeed0e51b0bac7c89e5c7e6cf086d7e03bae03df2390528a6f8a66a93e130d80",
+      "source_bytes": 14968,
+      "kind": "asset",
+      "preserved_sha256": "aeed0e51b0bac7c89e5c7e6cf086d7e03bae03df2390528a6f8a66a93e130d80"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
+      "local_path": "assets/fd719ea29c797930-KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "7f1c829b0c90fd664a03bb714a74f7d35d9e38ee1687104abc8ad5bd9c8ccb6c",
+      "source_bytes": 11800,
+      "kind": "asset",
+      "preserved_sha256": "7f1c829b0c90fd664a03bb714a74f7d35d9e38ee1687104abc8ad5bd9c8ccb6c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2",
+      "local_path": "assets/b537dd095f29f3f6-KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "0948409a22b5979aa7e1ec20da9e61f12e7d403800b541ece053881bd2542b70",
+      "source_bytes": 5604,
+      "kind": "asset",
+      "preserved_sha256": "0948409a22b5979aa7e1ec20da9e61f12e7d403800b541ece053881bd2542b70"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2",
+      "local_path": "assets/8ea345aaa4a4a8de-KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "6a84eeee6a25e7c9a8a03191007a6720566b5a2aa2384d36168fb07f49e97e9e",
+      "source_bytes": 9644,
+      "kind": "asset",
+      "preserved_sha256": "6a84eeee6a25e7c9a8a03191007a6720566b5a2aa2384d36168fb07f49e97e9e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "local_path": "assets/8d617196f9d80832-KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "f5aebdfea35d1e7656ef4acc5db1f243209755ae3300943ef8fc6280f363c860",
+      "source_bytes": 15860,
+      "kind": "asset",
+      "preserved_sha256": "f5aebdfea35d1e7656ef4acc5db1f243209755ae3300943ef8fc6280f363c860"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2",
+      "local_path": "assets/c26c7971c48aaa7b-KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "1c9cc76fd52238330f0aabac35acd2cac0f04b7890862e61e013ebbb8513fb5b",
+      "source_bytes": 6936,
+      "kind": "asset",
+      "preserved_sha256": "1c9cc76fd52238330f0aabac35acd2cac0f04b7890862e61e013ebbb8513fb5b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2",
+      "local_path": "assets/b3829bd49b1ca288-KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "5b6377da4c959db6d4b22738a27f1bee3d443f4148a680b25cda48d30f3c0532",
+      "source_bytes": 1432,
+      "kind": "asset",
+      "preserved_sha256": "5b6377da4c959db6d4b22738a27f1bee3d443f4148a680b25cda48d30f3c0532"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2",
+      "local_path": "assets/3ce15cc985ed80fe-KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "3c505383d37d2078648e37868bbd1fadf64a1c92dad2e03fff532ffa84e7635b",
+      "source_bytes": 14684,
+      "kind": "asset",
+      "preserved_sha256": "3c505383d37d2078648e37868bbd1fadf64a1c92dad2e03fff532ffa84e7635b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2",
+      "local_path": "assets/c38861a8376ed93b-KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "fc66f942651a9fe1a598770d3d896529dcd7a03d02f40655451513093103e61b",
+      "source_bytes": 11824,
+      "kind": "asset",
+      "preserved_sha256": "fc66f942651a9fe1a598770d3d896529dcd7a03d02f40655451513093103e61b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2",
+      "local_path": "assets/93954cfc090fb165-KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "4ec57f2a80b91090971b83970230ca09ab3568c5f5b224896ca9aa6180a76aa9",
+      "source_bytes": 5548,
+      "kind": "asset",
+      "preserved_sha256": "4ec57f2a80b91090971b83970230ca09ab3568c5f5b224896ca9aa6180a76aa9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2",
+      "local_path": "assets/5ef36ca26a27cb1f-KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "9fdb12ceee3a402d3a54afe354552459dd3950e9c6dece06288e4cc0a7a7c060",
+      "source_bytes": 9700,
+      "kind": "asset",
+      "preserved_sha256": "9fdb12ceee3a402d3a54afe354552459dd3950e9c6dece06288e4cc0a7a7c060"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmYUtfBBc4.woff2",
+      "local_path": "assets/1b9a150901f695e0-KFOlCnqEu92Fr1MmYUtfBBc4.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "7e262106f82cc52663e403f5b73795bbeab9ca0630c33c03579354fbcd4fae1e",
+      "source_bytes": 15752,
+      "kind": "asset",
+      "preserved_sha256": "7e262106f82cc52663e403f5b73795bbeab9ca0630c33c03579354fbcd4fae1e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2",
+      "local_path": "assets/f5d7d8c9b995f2f8-KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "2550c2e2d8495c3ed2d4d52f824374f1d65e13fe1e159ed01ae6cba9ebc2323f",
+      "source_bytes": 7040,
+      "kind": "asset",
+      "preserved_sha256": "2550c2e2d8495c3ed2d4d52f824374f1d65e13fe1e159ed01ae6cba9ebc2323f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2",
+      "local_path": "assets/4f6ca4d042a4d221-KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "76da333ab59c6d625cabfb0768f82b4ac1dd8fbd75b8ea8760e99c3d8afa219c",
+      "source_bytes": 1464,
+      "kind": "asset",
+      "preserved_sha256": "76da333ab59c6d625cabfb0768f82b4ac1dd8fbd75b8ea8760e99c3d8afa219c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2",
+      "local_path": "assets/b79969c77b857071-KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "f265cee675c0e5b2d6ab263d0edcc754f50cd43daf39cbc0cb9fdde6b4325d72",
+      "source_bytes": 14856,
+      "kind": "asset",
+      "preserved_sha256": "f265cee675c0e5b2d6ab263d0edcc754f50cd43daf39cbc0cb9fdde6b4325d72"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2",
+      "local_path": "assets/7071efc98e4a759d-KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "2781e9e7c3f369b8fc7965e679b17b60b5b11eaae5da1e5045107bbdd9d568f0",
+      "source_bytes": 11756,
+      "kind": "asset",
+      "preserved_sha256": "2781e9e7c3f369b8fc7965e679b17b60b5b11eaae5da1e5045107bbdd9d568f0"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2",
+      "local_path": "assets/76f9fe7b67edb7e4-KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "3a38c967413f7bce36d3baefc321aade81edf369e6a99dc32d911550148f636f",
+      "source_bytes": 5468,
+      "kind": "asset",
+      "preserved_sha256": "3a38c967413f7bce36d3baefc321aade81edf369e6a99dc32d911550148f636f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOmCnqEu92Fr1Mu4WxKOzY.woff2",
+      "local_path": "assets/4ce6db6da0889d1d-KFOmCnqEu92Fr1Mu4WxKOzY.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "daf51ab540602b2d0b87646621637bac38889bb34effb8a432ae739aca78b5c0",
+      "source_bytes": 7112,
+      "kind": "asset",
+      "preserved_sha256": "daf51ab540602b2d0b87646621637bac38889bb34effb8a432ae739aca78b5c0"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "local_path": "assets/988db57a78251826-KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "f6734f8177112c0839b961f96d813fcb189d81b60e96c33278c1983b6f419615",
+      "source_bytes": 15744,
+      "kind": "asset",
+      "preserved_sha256": "f6734f8177112c0839b961f96d813fcb189d81b60e96c33278c1983b6f419615"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOmCnqEu92Fr1Mu5mxKOzY.woff2",
+      "local_path": "assets/c057d5a23b6d3418-KFOmCnqEu92Fr1Mu5mxKOzY.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "495d38d4b9741e8aa4204002414069e2d8db9f3c60b60e195e4d74381462dee9",
+      "source_bytes": 9628,
+      "kind": "asset",
+      "preserved_sha256": "495d38d4b9741e8aa4204002414069e2d8db9f3c60b60e195e4d74381462dee9"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOmCnqEu92Fr1Mu72xKOzY.woff2",
+      "local_path": "assets/1f09f30ed4a2d5ed-KFOmCnqEu92Fr1Mu72xKOzY.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "b7ef2cd1159a8cbfd271ff2abe07f237a46f6fa056eefd2e9018661f93eea137",
+      "source_bytes": 15344,
+      "kind": "asset",
+      "preserved_sha256": "b7ef2cd1159a8cbfd271ff2abe07f237a46f6fa056eefd2e9018661f93eea137"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
+      "local_path": "assets/b5ed10d12d833a74-KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "3c23eb02de6b34e30f18cfb7167abd81a2cedfd1da60dfcb71989517ab3fb431",
+      "source_bytes": 11872,
+      "kind": "asset",
+      "preserved_sha256": "3c23eb02de6b34e30f18cfb7167abd81a2cedfd1da60dfcb71989517ab3fb431"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOmCnqEu92Fr1Mu7WxKOzY.woff2",
+      "local_path": "assets/e76d214556be9116-KFOmCnqEu92Fr1Mu7WxKOzY.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "77b24796a3d4ab521f66765651875338ed50cb9306cfe4603a3e79618e429cec",
+      "source_bytes": 5560,
+      "kind": "asset",
+      "preserved_sha256": "77b24796a3d4ab521f66765651875338ed50cb9306cfe4603a3e79618e429cec"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/media/com_sppagebuilder/assets/google-fonts/Roboto/KFOmCnqEu92Fr1Mu7mxKOzY.woff2",
+      "local_path": "assets/e648d727e2c917c9-KFOmCnqEu92Fr1Mu7mxKOzY.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "d368cf5bed7856dbafa2af36b51acb9c3e028689eca4495fed5f28388cec60ba",
+      "source_bytes": 1484,
+      "kind": "asset",
+      "preserved_sha256": "d368cf5bed7856dbafa2af36b51acb9c3e028689eca4495fed5f28388cec60ba"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_bold-webfont.eot",
+      "local_path": "assets/5007231ed545d783-ancizarsans_bold-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "7cd8fe10499c67470be60cff70157e771e0148da88b1ef8a5473f29c46148a16",
+      "source_bytes": 59184,
+      "kind": "asset",
+      "preserved_sha256": "7cd8fe10499c67470be60cff70157e771e0148da88b1ef8a5473f29c46148a16"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_bold-webfont.woff",
+      "local_path": "assets/249c57d0a8b0c681-ancizarsans_bold-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "5b14693cd9bd03b38c903fa40812c0a42a5b28d4673964e02c194fe6652b7141",
+      "source_bytes": 27748,
+      "kind": "asset",
+      "preserved_sha256": "5b14693cd9bd03b38c903fa40812c0a42a5b28d4673964e02c194fe6652b7141"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_bold_italic-webfont.eot",
+      "local_path": "assets/c11d3bdb1520cf15-ancizarsans_bold_italic-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "3fdf9383dbbd1137e0895691c0ca3c35e4d49c3ca07858f6ba9430011d160578",
+      "source_bytes": 62348,
+      "kind": "asset",
+      "preserved_sha256": "3fdf9383dbbd1137e0895691c0ca3c35e4d49c3ca07858f6ba9430011d160578"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_bold_italic-webfont.woff",
+      "local_path": "assets/57544d757bb5bbff-ancizarsans_bold_italic-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "493012aa2765a32bef956f4b15f05c41cf5e0a53f87a43c0b5037db58ec1c3bc",
+      "source_bytes": 28484,
+      "kind": "asset",
+      "preserved_sha256": "493012aa2765a32bef956f4b15f05c41cf5e0a53f87a43c0b5037db58ec1c3bc"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_italic-webfont.eot",
+      "local_path": "assets/542dbb1505323a32-ancizarsans_italic-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "640b3991b501b5ffa14bc7ecbce5efd17287ecac20fa8bcf5bdb012d0448e4d1",
+      "source_bytes": 62764,
+      "kind": "asset",
+      "preserved_sha256": "640b3991b501b5ffa14bc7ecbce5efd17287ecac20fa8bcf5bdb012d0448e4d1"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_italic-webfont.woff",
+      "local_path": "assets/7e83722144063977-ancizarsans_italic-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "85b1418732fab9687b7cba34386e838fc1b08dfdfc91a4b990818f5e2cac419f",
+      "source_bytes": 28132,
+      "kind": "asset",
+      "preserved_sha256": "85b1418732fab9687b7cba34386e838fc1b08dfdfc91a4b990818f5e2cac419f"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_regular-webfont.eot",
+      "local_path": "assets/d2efe803a31a4900-ancizarsans_regular-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "6c148f602dded47220d03054f1c5647f7da44c1fdebb5b0cd33593ceef36ac53",
+      "source_bytes": 59832,
+      "kind": "asset",
+      "preserved_sha256": "6c148f602dded47220d03054f1c5647f7da44c1fdebb5b0cd33593ceef36ac53"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_regular-webfont.woff",
+      "local_path": "assets/fc1f9fdc0b7dafaa-ancizarsans_regular-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "dfd5a9d48a3e4b13a514b19497ad3732ec59a3387d9163995e57c4b7f20a4dec",
+      "source_bytes": 27416,
+      "kind": "asset",
+      "preserved_sha256": "dfd5a9d48a3e4b13a514b19497ad3732ec59a3387d9163995e57c4b7f20a4dec"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_bold-webfont.eot",
+      "local_path": "assets/0ad0d7da1609a26b-ancizarserif_bold-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "79b18d7a0817a2808939e1368f320dd48a6ef8535125ff6b99ec81e873318557",
+      "source_bytes": 80128,
+      "kind": "asset",
+      "preserved_sha256": "79b18d7a0817a2808939e1368f320dd48a6ef8535125ff6b99ec81e873318557"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_bold-webfont.woff",
+      "local_path": "assets/3b680d6448a39dd2-ancizarserif_bold-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "c6959875e9707496f213d38dca4362597827a7a8afce4a0ec0ac1c1cbc166960",
+      "source_bytes": 38880,
+      "kind": "asset",
+      "preserved_sha256": "c6959875e9707496f213d38dca4362597827a7a8afce4a0ec0ac1c1cbc166960"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_bold_italic-webfont.eot",
+      "local_path": "assets/79ba8348d328c147-ancizarserif_bold_italic-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "82d574506445d3500cb07bcb0eb0eca9980cf365b9ea3850e957a004f63b997d",
+      "source_bytes": 85160,
+      "kind": "asset",
+      "preserved_sha256": "82d574506445d3500cb07bcb0eb0eca9980cf365b9ea3850e957a004f63b997d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_bold_italic-webfont.woff",
+      "local_path": "assets/2168fff627615ff7-ancizarserif_bold_italic-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "7c6c0f267fbba5932ec1b1cca9b1772687735cbc53ec6332099353b85742d4b5",
+      "source_bytes": 41748,
+      "kind": "asset",
+      "preserved_sha256": "7c6c0f267fbba5932ec1b1cca9b1772687735cbc53ec6332099353b85742d4b5"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_italic-webfont.eot",
+      "local_path": "assets/d11294759e931314-ancizarserif_italic-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "273dbae937ce0c28f813514a6be91320cb3fdfae06f077226803231c1fa32835",
+      "source_bytes": 84812,
+      "kind": "asset",
+      "preserved_sha256": "273dbae937ce0c28f813514a6be91320cb3fdfae06f077226803231c1fa32835"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_italic-webfont.woff",
+      "local_path": "assets/dd762a6c0b32c2d1-ancizarserif_italic-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "64fb871e843052342449dbdbc34618b5dc880a6ddb6962d13d01deb4a88bc699",
+      "source_bytes": 40592,
+      "kind": "asset",
+      "preserved_sha256": "64fb871e843052342449dbdbc34618b5dc880a6ddb6962d13d01deb4a88bc699"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_regular-webfont.eot",
+      "local_path": "assets/8e0f818ce6415ab1-ancizarserif_regular-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "54536c9ca2d87baaec1413104912e35859ea6e14e1db460f50906d52fe350343",
+      "source_bytes": 83992,
+      "kind": "asset",
+      "preserved_sha256": "54536c9ca2d87baaec1413104912e35859ea6e14e1db460f50906d52fe350343"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_regular-webfont.woff",
+      "local_path": "assets/fc42215c0d527680-ancizarserif_regular-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "dd51463ce03697f1d6124645abbae4c8421f81eca205396c90e101e9e58f2b48",
+      "source_bytes": 39620,
+      "kind": "asset",
+      "preserved_sha256": "dd51463ce03697f1d6124645abbae4c8421f81eca205396c90e101e9e58f2b48"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/icons/elusive/fonts/elusiveicons-webfont.eot",
+      "local_path": "assets/5b2b90f9b97b4648-elusiveicons-webfont.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "d09864b14474029a799f3ef2e604d0ba4d35633a1a09d8829ab4d9bea5d3dd73",
+      "source_bytes": 79748,
+      "kind": "asset",
+      "preserved_sha256": "d09864b14474029a799f3ef2e604d0ba4d35633a1a09d8829ab4d9bea5d3dd73"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/icons/elusive/fonts/elusiveicons-webfont.svg",
+      "local_path": "assets/d41926529fe4b695-elusiveicons-webfont.svg",
+      "content_type": "image/svg+xml",
+      "source_sha256": "d7d0b96834bbb6d4326b7e1321c295995e0bf813643d67ab1bf086e24a97ee25",
+      "source_bytes": 127188,
+      "kind": "asset",
+      "preserved_sha256": "d7d0b96834bbb6d4326b7e1321c295995e0bf813643d67ab1bf086e24a97ee25"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/icons/elusive/fonts/elusiveicons-webfont.ttf",
+      "local_path": "assets/6b13f9feff23ef69-elusiveicons-webfont.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "29b93f3fe666bf73dcc857869aee47532f710c0a16959c6275dc5bc2e3be4c9e",
+      "source_bytes": 79556,
+      "kind": "asset",
+      "preserved_sha256": "29b93f3fe666bf73dcc857869aee47532f710c0a16959c6275dc5bc2e3be4c9e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/icons/elusive/fonts/elusiveicons-webfont.woff",
+      "local_path": "assets/e4c1d667a836fb20-elusiveicons-webfont.woff",
+      "content_type": "font/woff",
+      "source_sha256": "91ae80f6f7052ffca5f547838af6d98e13939d6858f8a57c2ace77499697fd62",
+      "source_bytes": 48812,
+      "kind": "asset",
+      "preserved_sha256": "91ae80f6f7052ffca5f547838af6d98e13939d6858f8a57c2ace77499697fd62"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/backServices.png",
+      "local_path": "assets/70af07a5ca53e468-backServices.png",
+      "content_type": "image/png",
+      "source_sha256": "ba6731531e3dbfa0f65f6d73b94c4fc883d2b1b43642d5862a6172dc5f10654e",
+      "source_bytes": 2803,
+      "kind": "asset",
+      "preserved_sha256": "ba6731531e3dbfa0f65f6d73b94c4fc883d2b1b43642d5862a6172dc5f10654e"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/icnSocial.png",
+      "local_path": "assets/cec25a256bc1d3cb-icnSocial.png",
+      "content_type": "image/png",
+      "source_sha256": "e8948196ad7bb4143756ff1b64a220db6965f4a849846f18e6cf19f510a01b61",
+      "source_bytes": 5380,
+      "kind": "asset",
+      "preserved_sha256": "e8948196ad7bb4143756ff1b64a220db6965f4a849846f18e6cf19f510a01b61"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/locDot.png",
+      "local_path": "assets/1646c5f114de4f84-locDot.png",
+      "content_type": "image/png",
+      "source_sha256": "50fd97533d5eba9e5b1146380e4a1f4a8e7064fdcde5643e2b00b05dec5bd736",
+      "source_bytes": 1138,
+      "kind": "asset",
+      "preserved_sha256": "50fd97533d5eba9e5b1146380e4a1f4a8e7064fdcde5643e2b00b05dec5bd736"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/navigationBack.png",
+      "local_path": "assets/51ad7f28fe070930-navigationBack.png",
+      "content_type": "image/png",
+      "source_sha256": "c1b69d1765d3923edc7447962057a7348e1add4252a9a58cd1f939a17098664d",
+      "source_bytes": 932,
+      "kind": "asset",
+      "preserved_sha256": "c1b69d1765d3923edc7447962057a7348e1add4252a9a58cd1f939a17098664d"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/navigationBack_small.png",
+      "local_path": "assets/4b57195b1839a783-navigationBack_small.png",
+      "content_type": "image/png",
+      "source_sha256": "8633dcbfbf400c766f90e9476d537fa79906f31597b8b8599aec8e069064d09b",
+      "source_bytes": 923,
+      "kind": "asset",
+      "preserved_sha256": "8633dcbfbf400c766f90e9476d537fa79906f31597b8b8599aec8e069064d09b"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/sealBck.png",
+      "local_path": "assets/a168a61e9b6bb73e-sealBck.png",
+      "content_type": "image/png",
+      "source_sha256": "6e42d7c65ad3187fbd843f194653dfbb75194134554e1d3c023b27d97191cf86",
+      "source_bytes": 25414,
+      "kind": "asset",
+      "preserved_sha256": "6e42d7c65ad3187fbd843f194653dfbb75194134554e1d3c023b27d97191cf86"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.eot",
+      "local_path": "assets/9ebb9a323cdbef9e-fa-brands-400.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "b9f408282b1ba37d24eb9bce8eb5ecb90aa6802abf2a8425b0952c65d3abec75",
+      "source_bytes": 111620,
+      "kind": "asset",
+      "preserved_sha256": "b9f408282b1ba37d24eb9bce8eb5ecb90aa6802abf2a8425b0952c65d3abec75"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.svg",
+      "local_path": "assets/79bb599fe2567ffd-fa-brands-400.svg",
+      "content_type": "image/svg+xml",
+      "source_sha256": "34022fba1218b221d0a13ce5b450d5538a4140ff5de47ff8f613404f28339e52",
+      "source_bytes": 599834,
+      "kind": "asset",
+      "preserved_sha256": "34022fba1218b221d0a13ce5b450d5538a4140ff5de47ff8f613404f28339e52"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.ttf",
+      "local_path": "assets/e81f9efb615b99e3-fa-brands-400.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "5864e7617609c6173b0bf22658dfcd9d69ef75526cd1d33fe10b5bf05be81f9d",
+      "source_bytes": 111384,
+      "kind": "asset",
+      "preserved_sha256": "5864e7617609c6173b0bf22658dfcd9d69ef75526cd1d33fe10b5bf05be81f9d"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.woff",
+      "local_path": "assets/a051676c0abdf0b0-fa-brands-400.woff",
+      "content_type": "application/font-woff",
+      "source_sha256": "d0ff0e47b15c12b05b906f3892cd355fc61caff78ecd5e636740419c7435831d",
+      "source_bytes": 71560,
+      "kind": "asset",
+      "preserved_sha256": "d0ff0e47b15c12b05b906f3892cd355fc61caff78ecd5e636740419c7435831d"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.woff2",
+      "local_path": "assets/8858e70a42321aef-fa-brands-400.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "1ddd3b7b68a96da02979f972e4e9a8b6af63b5a17c75d7c7e0e3901d9f3a729c",
+      "source_bytes": 61336,
+      "kind": "asset",
+      "preserved_sha256": "1ddd3b7b68a96da02979f972e4e9a8b6af63b5a17c75d7c7e0e3901d9f3a729c"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.eot",
+      "local_path": "assets/db403de1b68d80d9-fa-regular-400.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "1b877a227db35fbd333d4554868e9abeb82e9237fa88a0782c334b731566746d",
+      "source_bytes": 31272,
+      "kind": "asset",
+      "preserved_sha256": "1b877a227db35fbd333d4554868e9abeb82e9237fa88a0782c334b731566746d"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.svg",
+      "local_path": "assets/ea4a27a501c584da-fa-regular-400.svg",
+      "content_type": "image/svg+xml",
+      "source_sha256": "d5dd372ed174e7e60e40578d26c4550527a161f598014f6009ac03386338ccc6",
+      "source_bytes": 104706,
+      "kind": "asset",
+      "preserved_sha256": "d5dd372ed174e7e60e40578d26c4550527a161f598014f6009ac03386338ccc6"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.ttf",
+      "local_path": "assets/b1d42afd04170e58-fa-regular-400.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "1888aa9fb6c7e689c1d40eb538579ca7e3bfd6dd65441b098b2fdef3c28ca6d2",
+      "source_bytes": 31044,
+      "kind": "asset",
+      "preserved_sha256": "1888aa9fb6c7e689c1d40eb538579ca7e3bfd6dd65441b098b2fdef3c28ca6d2"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.woff",
+      "local_path": "assets/ad6a2504ca3f8c36-fa-regular-400.woff",
+      "content_type": "application/font-woff",
+      "source_sha256": "713e12eb1790cdab48b8acdde51e7be77aeae1d511c4afbc5eb26df18c9e17fd",
+      "source_bytes": 14724,
+      "kind": "asset",
+      "preserved_sha256": "713e12eb1790cdab48b8acdde51e7be77aeae1d511c4afbc5eb26df18c9e17fd"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.woff2",
+      "local_path": "assets/60e7aaf92c9bfb30-fa-regular-400.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "1b4c97a2809cdb53153139544e1f5db34e4917c8f01d2dd94cb9519e24e1ab3c",
+      "source_bytes": 12188,
+      "kind": "asset",
+      "preserved_sha256": "1b4c97a2809cdb53153139544e1f5db34e4917c8f01d2dd94cb9519e24e1ab3c"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.eot",
+      "local_path": "assets/60fbfac12e4f900a-fa-solid-900.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "source_sha256": "630789ec9adb68d712fe066fc9017ffe23a9436e4c2fbe0c67bcba3f10c4654e",
+      "source_bytes": 133140,
+      "kind": "asset",
+      "preserved_sha256": "630789ec9adb68d712fe066fc9017ffe23a9436e4c2fbe0c67bcba3f10c4654e"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.svg",
+      "local_path": "assets/313a8fed2b290da7-fa-solid-900.svg",
+      "content_type": "image/svg+xml",
+      "source_sha256": "e32c846f9f76d3a2a49f330f667eaee5e43b72b7172e6f0c0e7cf3788527ec07",
+      "source_bytes": 488395,
+      "kind": "asset",
+      "preserved_sha256": "e32c846f9f76d3a2a49f330f667eaee5e43b72b7172e6f0c0e7cf3788527ec07"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.ttf",
+      "local_path": "assets/5a1335fb8f071a63-fa-solid-900.ttf",
+      "content_type": "font/ttf",
+      "source_sha256": "3bed33cbdc3d01540acd4c0aacda1b53943b5d94a09c6b341aa643395a19305f",
+      "source_bytes": 132920,
+      "kind": "asset",
+      "preserved_sha256": "3bed33cbdc3d01540acd4c0aacda1b53943b5d94a09c6b341aa643395a19305f"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.woff",
+      "local_path": "assets/36fe0613755846dc-fa-solid-900.woff",
+      "content_type": "application/font-woff",
+      "source_sha256": "b1d148fe2137ae4722dc1616aa49b6c4a5c9a12a55cae9e37669ccf64e69358a",
+      "source_bytes": 63836,
+      "kind": "asset",
+      "preserved_sha256": "b1d148fe2137ae4722dc1616aa49b6c4a5c9a12a55cae9e37669ccf64e69358a"
+    },
+    {
+      "source_url": "https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.woff2",
+      "local_path": "assets/f5ff9cdc18335185-fa-solid-900.woff2",
+      "content_type": "font/woff2",
+      "source_sha256": "cbbca7d9888b4a9eab7d479756d2924f9b067fd38dab376797029df741f96ee4",
+      "source_bytes": 50372,
+      "kind": "asset",
+      "preserved_sha256": "cbbca7d9888b4a9eab7d479756d2924f9b067fd38dab376797029df741f96ee4"
+    },
+    {
+      "source_url": "https://lottie.host/254385a5-05c4-43c9-b8e6-93f79b75a802/3fCENm3nLQ.json",
+      "local_path": "assets/68d18d22bf660953-3fCENm3nLQ.json",
+      "content_type": "application/json",
+      "source_sha256": "ffad16991a5cacb6066a62870adaa5fc2fb724395b6801984f491db52a3385d9",
+      "source_bytes": 908900,
+      "kind": "asset",
+      "preserved_sha256": "ffad16991a5cacb6066a62870adaa5fc2fb724395b6801984f491db52a3385d9"
+    },
+    {
+      "source_url": "https://lottie.host/45cf1a54-535f-45c6-b3f8-c6322c13e7b0/kYuTpKvk4R.json",
+      "local_path": "assets/31709434a65ad04c-kYuTpKvk4R.json",
+      "content_type": "application/json",
+      "source_sha256": "bedc57daa21588ac93c1f71e614f2f313153e13597acc1c457ae3ff4b5d0bfce",
+      "source_bytes": 500132,
+      "kind": "asset",
+      "preserved_sha256": "bedc57daa21588ac93c1f71e614f2f313153e13597acc1c457ae3ff4b5d0bfce"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/twbs/bootstrap/v3.4.1/fonts/glyphicons-halflings-regular.woff2",
+      "local_path": "assets/373516025961c707-glyphicons-halflings-regular.woff2",
+      "content_type": "application/octet-stream",
+      "source_sha256": "fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c",
+      "source_bytes": 18028,
+      "kind": "asset",
+      "preserved_sha256": "fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c"
+    },
+    {
+      "source_url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/images/escudoUnal.svg",
+      "local_path": "assets/1bb456b9319dbbe7-escudoUnal.svg",
+      "content_type": "image/svg+xml",
+      "source_sha256": "8936eb549130c66dba15d600d7ab8540630d769d117efa7f81c5a53bfcdddb2d",
+      "source_bytes": 48023,
+      "kind": "asset",
+      "preserved_sha256": "8936eb549130c66dba15d600d7ab8540630d769d117efa7f81c5a53bfcdddb2d"
+    },
+    {
+      "source_url": "https://drive.google.com/file/d/1kmPc_1J8KcE4I0cXxqtFISfRKBFfbn4f/view?usp=sharing",
+      "local_path": "assets/manual-usuario.pdf",
+      "content_type": "application/pdf",
+      "source_sha256": "4c41dbf176dfdb657b280e4007925170ff941bdaa31ca62bc8ed7b2ab8489b08",
+      "source_bytes": 84356767,
+      "kind": "asset",
+      "title": "Manual de usuario",
+      "preserved_sha256": "4c41dbf176dfdb657b280e4007925170ff941bdaa31ca62bc8ed7b2ab8489b08"
+    },
+    {
+      "source_url": "https://drive.google.com/file/d/1LGgZqkLpFAr3RG0JOL37mtQA5Y-KcFp7/view?usp=sharing",
+      "local_path": "assets/manual-tecnico.pdf",
+      "content_type": "application/pdf",
+      "source_sha256": "610f48a53c28ebb899343d30330dfec5fbebc19e8502572cc58cf0b2c5663947",
+      "source_bytes": 39392422,
+      "kind": "asset",
+      "title": "Manual técnico",
+      "preserved_sha256": "610f48a53c28ebb899343d30330dfec5fbebc19e8502572cc58cf0b2c5663947"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/en",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/es",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_bold-webfont.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_bold-webfont.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_bold_italic-webfont.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_bold_italic-webfont.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_italic-webfont.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_italic-webfont.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_regular-webfont.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarsans_regular-webfont.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_bold-webfont.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_bold-webfont.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_bold_italic-webfont.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_bold_italic-webfont.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_italic-webfont.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_italic-webfont.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_regular-webfont.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/ancizarserif_regular-webfont.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/glyphicons-halflings-regular.eot",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/glyphicons-halflings-regular.svg",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/glyphicons-halflings-regular.ttf",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/civica/templates/unal/fonts/glyphicons-halflings-regular.woff",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://ingenieria.bogota.unal.edu.co/images/recursos/sliderProgramasAcademicos/FondoInternas.jpg",
+      "error": "HTTPError"
+    }
+  ],
+  "external_document_limits": [],
+  "finalized_at_utc": "2026-11-24T03:48:26.646574+00:00",
+  "site_url": "https://danothekid.github.io/civica",
+  "hosting": {
+    "provider": "GitHub Pages",
+    "base_path": "/civica/",
+    "repository": "DanoTheKid/danothekid.github.io"
+  },
+  "adapted_at_utc": "2026-11-24T03:48:26.646574+00:00"
+}

@@ -1,0 +1,48 @@
+Código;Definición
+ZAT;Zona de Análisis de Transporte
+MUN;Municipio al cual pertenece
+UTAM;Unidad Territorial de Análisis de Movilidad 
+MOVVELZT;Velocidad promedio del tráfico motorizado (km/h)
+MOVCGEZT;Nivel de congestión de 0 a 1 siendo 1 los mayores niveles de congestión
+MOVTVAUZT;Tiempo promedio de viaje en auto
+MOVTVMOZT;Tiempo promedio de viaje en moto
+MOVTVBUZT;Tiempo promedio de viaje en bus
+MOVTVTMZT;Tiempo promedio de viaje en TransMilenio
+MOVTVBIZT;Tiempo promedio de viaje en bicicleta
+MOVTVCAZT;Tiempo promedio de viaje en caminata
+MOVTVTXZT;Tiempo promedio de viaje en taxi
+MOVTVOTZT;Tiempo promedio de viaje en otros modos
+MOVSINH15ZT;Tasa de siniestros viales con heridos por cada 100.000 habitantes en 2015
+MOVSINM15ZT;Tasa de siniestros viales con fallecidos por cada 100.000 habitantes en 2015
+MOVSIND15ZT;Tasa de siniestros viales de solo daños por cada 100.000 habitantes en 2015
+MOVSINH16ZT;Tasa de siniestros viales con heridos por cada 100.000 habitantes en 2016
+MOVSINM16ZT;Tasa de siniestros viales con fallecidos por cada 100.000 habitantes en 2016
+MOVSIND16ZT;Tasa de siniestros viales de solo daños por cada 100.000 habitantes en 2016
+MOVSINH17ZT;Tasa de siniestros viales con heridos por cada 100.000 habitantes en 2017
+MOVSINM17ZT;Tasa de siniestros viales con fallecidos por cada 100.000 habitantes en 2017
+MOVSIND17ZT;Tasa de siniestros viales de solo daños por cada 100.000 habitantes en 2017
+MOVSINH18ZT;Tasa de siniestros viales con heridos por cada 100.000 habitantes en 2018
+MOVSINM18ZT;Tasa de siniestros viales con fallecidos por cada 100.000 habitantes en 2018
+MOVSIND18ZT;Tasa de siniestros viales de solo daños por cada 100.000 habitantes en 2018
+MOVSINH19ZT;Tasa de siniestros viales con heridos por cada 100.000 habitantes en 2019
+MOVSINM19ZT;Tasa de siniestros viales con fallecidos por cada 100.000 habitantes en 2019
+MOVSIND19ZT;Tasa de siniestros viales de solo daños por cada 100.000 habitantes en 2019
+MOVSINH20ZT;Tasa de siniestros viales con heridos por cada 100.000 habitantes en 2020
+MOVSINM20ZT;Tasa de siniestros viales con fallecidos por cada 100.000 habitantes en 2020
+MOVSIND20ZT;Tasa de siniestros viales de solo daños por cada 100.000 habitantes en 2020
+MOVSINH21ZT;Tasa de siniestros viales con heridos por cada 100.000 habitantes en 2021
+MOVSINM21ZT;Tasa de siniestros viales con fallecidos por cada 100.000 habitantes en 2021
+MOVSIND21ZT;Tasa de siniestros viales de solo daños por cada 100.000 habitantes en 2021
+MOVSINH22ZT;Tasa de siniestros viales con heridos por cada 100.000 habitantes en 2022
+MOVSINM22ZT;Tasa de siniestros viales con fallecidos por cada 100.000 habitantes en 2022
+MOVSIND22ZT;Tasa de siniestros viales de solo daños por cada 100.000 habitantes en 2022
+MOVREPAUZT;Reparto modal para la modalidad de auto
+MOVREPBIZT;Reparto modal para la modalidad de bicicleta
+MOVREPBUZT;Reparto modal para la modalidad de bus
+MOVREPCAZT;Reparto modal para la modalidad de caminata
+MOVREPMOZT;Reparto modal para la modalidad de moto
+MOVREPOTZT;Reparto modal para la modalidad de otros modos
+MOVREPTAZT;Reparto modal para la modalidad de taxi
+MOVREPTMZT;Reparto modal para la modalidad de TransMilenio
+MOVASEQZT;Porcentaje del salario que en promedio se destina al transporte
+MOVTOIZT;Número de sillas de transporte público ofertadas en un día típico

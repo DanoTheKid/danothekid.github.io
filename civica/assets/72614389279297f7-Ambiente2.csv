@@ -1,0 +1,11 @@
+Código;Definición
+ZAT;Zona de Análisis de Transporte
+MUN;Municipio al cual pertenece
+UTAM;Unidad Territorial de Análisis de Movilidad 
+ACCARBZT;Densidad de árboles (árboles/pesona)
+ACCRUIDDZT;Niveles de ruido promedio en día dominical periodo diurno (dBA)
+ACCRUIDNZT;Niveles de ruido promedio en día dominical periodo nocturno (dBA)
+ACCRUIODZT;Niveles de ruido promedio en día dominical periodo diurno (dBA)
+ACCRUIONZT;Niveles de ruido promedio en día dominical periodo nocturno (dBA)
+ACCAIRZT;Concentración promedio de material particulado (µg/m³)
+ACCEPEZT;Espacio público efectivo (m2/hab)

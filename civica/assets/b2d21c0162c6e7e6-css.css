@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url("/civica/assets/71de37925e5dc6e5-pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url("/civica/assets/4aae4b279c6880a2-pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/civica/assets/62b22f56c2a77e9c-pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/civica/assets/c2b6da15802bcf51-pxiGyp8kv8JHgFVrJJLucHtF.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/civica/assets/f4a89bfa07e52e85-pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/civica/assets/e9e84193475731c4-pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/civica/assets/988d8744c89e6766-pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/civica/assets/c9f1425b4fb3e5d5-pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/civica/assets/ad751cc79f175cd2-pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("/civica/assets/cb8b9b2e1157b290-pxiGyp8kv8JHgFVrLPTucHtF.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("/civica/assets/9663fcad2359f40c-pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/civica/assets/dcdc4b8de159adb9-pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/civica/assets/9956463e700008e6-pxiEyp8kv8JHgFVrJJfedw.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/civica/assets/6fb22200fc57c0ba-pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/civica/assets/1c1b27cc981cf923-pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/civica/assets/8bb0f6e68e716883-pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/civica/assets/9c2adccb671cc524-pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/civica/assets/9662b397e1de6e4a-pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf") format('truetype');
+}
