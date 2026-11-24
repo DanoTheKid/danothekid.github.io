@@ -1,0 +1,23 @@
+Código;Definición
+ZAT;Zona de Análisis de Transporte
+MUN;Municipio al cual pertenece
+UTAM;Unidad Territorial de Análisis de Movilidad 
+VYEBEVZT;Relación entre el número de empleos y el número de viviendas
+VYEEPRZT;Porcentaje de la población con preescolar como máximo nivel educativo alcanzado
+VYEEBPZT;Porcentaje de la población con básica primaria como máximo nivel educativo alcanzado
+VYEEBSZT;Porcentaje de la población con básica secundaria como máximo nivel educativo alcanzado
+VYEEMAZT;Porcentaje de la población con media académica como máximo nivel educativo alcanzado
+VYEEMTZT;Porcentaje de la población con media técnica como máximo nivel educativo alcanzado
+VYEENOZT;Porcentaje de la población con normalista como máximo nivel educativo alcanzado
+VYEETPZT;Porcentaje de la población con técnico profesional como máximo nivel educativo alcanzado
+VYEEUNZT;Porcentaje de la población con grado universitario como máximo nivel educativo alcanzado
+VYEEPOZT;Porcentaje de la población con posgrado como máximo nivel educativo alcanzado
+VYEENIZT;Porcentaje de la población con ningún nivel educatvio
+VYEDENZT;Densidad poblacional (hab/Ha)
+VYEVSSENEZT;Porcentaje de viviendas sin cobertura de energía
+VYEVSSALCZT;Porcentaje de viviendas sin cobertura de alcantarillado
+VYEVSSINTZT;Porcentaje de viviendas sin cobertura de internet
+VYEVSSGASZT;Porcentaje de viviendas sin cobertura de gas
+VYEVSSAGUZT;Porcentaje de viviendas sin cobertura de acueducto
+VYEVASZT;Valor del metro cuadrado de suelo
+VYEAUTZT;Porcentaje de los viajes originados en la ZAT que son autocontenidos

@@ -1,0 +1,15 @@
+Código;Definición
+ZAT;Zona de Análisis de Transporte
+MUN;Municipio al cual pertenece
+UTAM;Unidad Territorial de Análisis de Movilidad 
+SEGCAMZT;Densidad de cámaras (cámaras/Ha)
+SEGCAIZT;Densidad de CAI (CAI/Ha)
+SEGILUNOZT;Porcentaje de la red vial que no cuenta con iluminación
+SEGILUDEZT;Porcentaje de la red vial que cuenta con iluminación deficiente
+SEGILUSUZT;Porcentaje de la red vial que cuenta con iluminación suficiente
+SEGILUEXZT;Porcentaje de la red vial que cuenta con iluminación excelente
+SEGDELBIZT;Tasa de hurtos de bicicletas por cada 100.000 hab
+SEGDELCEZT;Tasa de hurtos de celulares por cada 100.000 hab
+SEGDELHOZT;Tasa de homicidios por cada 100.000 hab
+SEGDELLEZT;Tasa de delitos que probocan lesiones por cada 100.000 hab
+SEGDELPEZT;Tasa de delitos a personas por cada 100.000 hab

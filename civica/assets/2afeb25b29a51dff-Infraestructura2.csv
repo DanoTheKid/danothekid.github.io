@@ -1,0 +1,16 @@
+Código;Definición
+ZAT;Zona de Análisis de Transporte
+MUN;Municipio al cual pertenece
+UTAM;Unidad Territorial de Análisis de Movilidad 
+IPSWALZT;Grado de caminabilidad promedio medido de 0 a 1
+IPSLTSN19ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés nulo calculado para 2019
+IPSLTSL19ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés bajo calculado para 2019
+IPSLTSM19ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés medio calculado para 2019
+IPSLTSH19ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés alto calculado para 2019
+IPSLTSE19ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés muy alto calculado para 2019
+IPSLTSN20ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés nulo calculado para 2020
+IPSLTSL20ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés bajo calculado para 2020
+IPSLTSM20ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés medio calculado para 2020
+IPSLTSH20ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés alto calculado para 2020
+IPSLTSE20ZT;Porcentaje de la red vial con características que llevan a ciclistas experimentar un nivel de estrés muy alto calculado para 2020
+IPSDIVZT;Índice de diversidad de establecimientos medido de 0 a 1. 1 implica que se tienen todos los servicios escenciales a una distancia caminable
