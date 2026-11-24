@@ -2483,3 +2483,7 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.intro-content .button.civica-link::after {
+    content: none;
+}
